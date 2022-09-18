@@ -1,0 +1,551 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43443</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>dbc3d548-69fd-4e3f-a9da-b344d08367f8</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1170527194805">
+      <title>Economic Development in Wales</title>
+      <para id="import-auto-id1170527173938">The region of focus in this study is Southwest Wales and in particular, the City of Swansea hinterland. The development of this region has a turbulent history stretching over the past two centuries and now faces many new challenges which are similar to those faced by regions throughout the world.</para>
+      <para id="import-auto-id2926682">Many new initiatives have been introduced with the aim of addressing the economic challenges in Wales. Such initiatives include the Welsh Assembly Government (WAG) and Welsh European Funding Organization (WEFO) investment at Swansea University in the area of Life Science and NanoHealth. Inclusive to this is the involvement of Swansea University in the Texas/United Kingdom Collaborative, a research network focused on the emerging nano technologies in Texas and the United Kingdom particularly in the emerging Bio/Nano Health cluster in the Southwest region of Wales. This thesis will focus on the challenges related the knowledge economy and in particular the creation of sustainable clusters. These challenges include not only worldwide phenomena such as globalisation and the emergence of the Knowledge Economy, but also an industrial and social legacy that leaves Wales with a relatively weak economic base. Due to this, Wales has many sectors in decline or facing intense pressure from overseas competitors, where low wages make activities such as manufacturing cheaper.</para>
+      <para id="import-auto-id1170527535287">The following sections chart the economic history of Wales, tying it in with the various instruments applied by European, UK and Welsh governmental layers to support economic development. This brief history is discussed in the context of the accompanying political changes.</para>
+      <section id="import-auto-id1170527360380">
+        <title>The Industrial Revolution</title>
+        <para id="import-auto-id1170525133584">While the industrial revolution is often associated with certain technological advances the concept stems not from adoption of a particular invention, but rather from the start of a massive economic restructuring that saw the United Kingdom established as the world’s first industrial nation (Mathias 1983). This restructuring saw the migration of economic activity from agriculture to industry and the migration of the workforce from the countryside to towns and cities (Stiglitz 1999). While agriculture started to become mechanised production industries such as textiles, iron and steel became drivers of economic growth. These industries, however, were not the preserve of manual unskilled labour. ‘Skilled’ workers were required to sign legally enforceable contracts that would prevent them taking their knowledge elsewhere if they received a better offer (Ross 2005). Though this would not relate to circuit layouts in microelectronics or recombinant DNA, it was an early example of practice we now see as common in our modern ‘Knowledge-Based’ economy. </para><para id="import-auto-id1170527419862">The growth of the Welsh economy was however to be boosted by the great innovation of the industrial revolution; the steam engine (Ross 2005). The great impact of this was not in making the process of mining more efficient but in providing a global market for Welsh coal to power the steamships and locomotives of the British Empire. </para>
+        <para id="import-auto-id1170522266007">As the term revolution implies, this massive industrial growth was not sustained and this led to massive economic and political upheaval in Wales. Despite industrialisation around the world, various factors combined to reduce the scale of the Welsh coal industry long before its eventual collapse in the 1980s. This came about due to a variety of factors including modernisation of industries in competing nations such as Poland, service of overseas markets by closer competitors (such as Canada importing coal from the United States), and even the war reparations enforced on Germany, which lacking cash were settled in coal (Morgan 1981).</para></section>
+      <section id="import-auto-id1170531611008">
+        <title>Industrial Decline and the ‘FDI’ Era </title>
+        <para id="import-auto-id1170526289116">The massive contraction of the steel industry and the almost complete disappearance of the coal industry during the 1970s and 1980s punctuated a trend of economic decline that had set in during the post-war period (Morgan 2001). To stem this decline, major efforts were made to develop other sectors, including attracting Foreign Direct Investment (FDI). Since the 1970s this restructuring has absorbed 200,000 jobs from these declining industries into a more modern base of services and manufacturing (WAG 2001). This was also accompanied by a gender restructuring of the workforce that included the proportion of women rising from 38% in 1975 to 50% in 1994 (Cameron et al. 2002). </para>
+        <para id="import-auto-id1170529339046">The GDP of Wales has broadly tracked that of the UK as a whole, though trailing somewhat behind, since records began at the beginning of 1970. This lagging performance, is an effect of the structure of the Welsh economy relying heavily on low value-add employment, compounded by higher rates of economic inactivity in Wales (and particularly the West Wales and Valleys region), along with lower productivity per employee as shown in <link target-id=" import-auto-id1170527409962"/> (WEFO 2004). </para><table id="import-auto-id1170527409962" summary="GDP per employee (‘000s) by sector, Wales and UK, 1996 (WEFO 2004)">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>
+
+                    <emphasis effect="bold">Industrial Sector</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">Wales</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">UK</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Agriculture, hunting, forestry and fishing</entry>
+                <entry>12.8</entry>
+                <entry>22.6</entry>
+              </row>
+              <row>
+                <entry>Mining, quarrying, including oil and gas Extraction</entry>
+                <entry>55.1</entry>
+                <entry>60.0</entry>
+              </row>
+              <row>
+                <entry>Manufacturing</entry>
+                <entry>33.9</entry>
+                <entry>32.8</entry>
+              </row>
+              <row>
+                <entry>Electricity, gas and water supply</entry>
+                <entry>98.2</entry>
+                <entry>105.7</entry>
+              </row>
+              <row>
+                <entry>Construction</entry>
+                <entry>18.9</entry>
+                <entry>20.9</entry>
+              </row>
+              <row>
+                <entry>Wholesale and Retail Trade</entry>
+                <entry>22.4</entry>
+                <entry>25.0</entry>
+              </row>
+              <row>
+                <entry>Transport and communication</entry>
+                <entry>30.6</entry>
+                <entry>35.1</entry>
+              </row>
+              <row>
+                <entry>Public administration and defence</entry>
+                <entry>20.4</entry>
+                <entry>26.1</entry>
+              </row>
+              <row>
+                <entry>Education, health and social work</entry>
+                <entry>17.6</entry>
+                <entry>18.2</entry>
+              </row>
+              <row>
+                <entry>Other services</entry>
+                <entry>5.3</entry>
+                <entry>4.7</entry>
+              </row>
+              <row>
+                <entry>
+                    <emphasis effect="bold">Total</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">22.8</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">25.1</emphasis>
+
+                </entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>GDP per employee (‘000s) by sector, Wales and UK, 1996 (WEFO 2004)</caption>
+</table></section>
+      <section id="import-auto-id1170526285768">
+        <title>The Regional Development Agency Approach</title>
+        <para id="import-auto-id1170530409659">This massive economic pressure and the rise of nationalism led to the UK government establishing development agencies in Wales and Scotland in 1976 (Cooke and Clifton 2005). In Wales this took the form of the Welsh Development Agency (WDA). Its core strategy to provide job creation was to pursue Foreign Direct Investment (FDI) from around the globe. Though much of the literature mentioned in the following section focuses upon FDI in the UK and Wales, it should be noted that this phenomenon of economic development through FDI occurred throughout the European Union (EU) and Organisation for Economic Cooperation and Development (OECD) (Barrell and Pain 1997), including the United States (Friedman et al. 1992). However, FDI interventions occurred at (proportionally) higher rates in the EU than the OECD, which were higher in the UK than the EU, and higher in Wales than the UK as a whole.</para>
+        <para id="import-auto-id8354084">The prime hunting ground for such opportunities was the ‘Tiger economies’ of South-east Asia and the following decades would see names such as Panasonic, Sony and LG all establish operations in the region, mainly of an assembly nature. The attraction for these investors included access to markets, low wages and other financial incentives. Access to markets is seen as a key factor in the location decisions of FDI as discussed by various observers, for example, the increase in FDI in Spain following its joining of the EU (Friedman et al. 1992). This has now become a challenge for older EU regions in competition with the newly joined countries of Eastern Europe. However, the prizes of attracting FDI, which could bring thousands of jobs at a time, were massive. This often led to interregional competition for investments with packages of aid being offered including grant aid, assistance with planning issues etc. (Phelps and Tewdwr-Jones 2001, Cooke and Clifton 2005). Alongside these packages, however, was what often figured as the key determinant in attracting FDI (in both Wales and other regions): a low wage rate (Friedman et al. 1992).</para><para id="import-auto-id1170530107573">The WDA proved to be most successful at this competition, securing over two thousand projects between 1983 and 2000 (Salvador and Harding 2005), consistently attracting between 15-20% of FDI coming to the UK between 1983 and 1993 (Cooke 1998). One major investment could deliver massive opportunities to the surrounding region and much like the iron works of old, would become the prime employer in a town or region (Mathias 1983). The approach of the WDA in speculatively preparing sites across Wales to attract investors was likened by some commentators to the “<emphasis effect="italics">build it and they will come</emphasis>” concept seen in the American movie ‘Field of Dreams’ (Cooke 2005).</para>
+        <para id="import-auto-id1170525561149">This successful attraction of FDI into Wales meant that by 1992, 30% of Welsh manufacturing employment, some 68,000 workers, were employed in foreign-owned firms compared to 45,000 just over a decade earlier in 1981; a proportional increase double that of the UK as a whole (Cameron et al., 2002). The increase in FDI during this period led to much research to understand issues such as policies to support its role in regional economies (Gripaios et al. 1997, Young et al. 1994); its ‘embeddedness’ within the region (Phelps et al. 2003, Phelps et al. 1998); the ‘quality’ of investments (Gripaios et al. 1997); and their role in technological change and technology transfer (Barrell and Pain 1997).</para><para id="import-auto-id1170529444099">Observers note in retrospect that this focus on inward investment may have led to the missed opportunity of investing in entrepreneurship and indigenous development that received greater attention in regions such as Scotland and Northern Ireland (Cooke and Clifton 2005). </para>
+        <para id="import-auto-id1170528471923">Other criticisms of FDI include weak linkages with the regional economies within which they reside, such as supply chains (Young et al. 1994) and the ‘quality’ of the jobs provided, which were primarily assembly functions in branch plant operations. However, where the Multinational enterprise (MNE) is investing far from its home country the linkages it establishes are generally found to be stronger (Rodriguez-Clare, 1996). Young et al. (1994) describe strategies that can be applied to make use of MNE FDI in the development of cluster formation through creation of linkages with local R&amp;D. Such linkages may be with universities and development of supply chain opportunities. </para>
+        <para id="import-auto-id1170526649459">By the end of the century the Steel industry had suffered greatly in the face of global competition and the start of a phase of massive sectoral consolidation was set to continue into the new millennium. Meanwhile the efforts of the Thatcher government meant the coal mining industry had virtually been destroyed, leaving a very different Welsh economy to that which had fuelled the industrial revolution and transformed the entire world. </para>
+        <para id="import-auto-id1170519333740">Wales, however, was to face political upheaval on a scale to match that of the changes in its economy, as the subsequent Labour government promised a referendum for a National Assembly. The proposal was for an Assembly, which would have responsibility for certain limited portfolios (including particularly challenging ones such as Health and Education), something not attempted since a previous referendum (also attempted by a Labour UK Government) was defeated by a margin of 80% in 1979 (Keating 1998).</para>
+      </section>
+      <section id="import-auto-id1170529200531">
+        <title>The National Assembly for Wales</title>
+        <para id="import-auto-id1170520152612">Following successful referenda on the proposals in Scotland and Wales, the National Assembly for Wales and the Welsh Assembly Government (WAG) took over control of affairs including health, education and economic development. Scotland regained its parliament, which it lost in the act of Union in 1707, providing greater control for Scots over their own affairs.  This marked a massive political change for the devolved countries and the UK as a whole, marking the greatest constitutional change in what was seen to be an ongoing process of devolution (Keating 1998) since the abolition of the House of Lords veto in 1910 and the establishment of the Irish Free State in 1921 (Morgan 2001).</para><para id="import-auto-id1170518309572">Since its integration with England in 1536, Wales had long been regarded as being tied more closely with England than its northern Celtic neighbour, despite clear religious and linguistic differences (Keating 1998). This is further reflected by the Welsh Office having only existed since 1965, while Scotland had enjoyed such representation within Westminster since 1885. This is seen, along with a perceived lack of consensus amongst the Welsh people for devolution, as one of the reasons for a lower level of power being devolved to Wales (Salvador and Harding 2005).</para>
+        <para id="import-auto-id1170525989186">The ‘Assembly’ itself is a body that encompasses the legislative functions (National Assembly for Wales) and the executive functions (WAG). The legislature comprises 60 elected members representing constituencies and regions. Much of the power of the Assembly is held by the First Minister who appoints a cabinet of Ministers to hold portfolios including Education, Health, Culture, Local Government, and Economic Development and Transport. This structure is shown in <link target-id=" import-auto-id1170528617868"/>, cited from Salvador and Harding (2005). However, the level of devolved power given to the Assembly is far less than that afforded to Scotland and this is cited by some as a debilitating factor in the Assembly’s ability to deliver economic revival (Cooke and Clifton 2005).</para><figure id="import-auto-id1170528617868"><media id="import-auto-id1170518794794" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-50cb.jpg" width="400" print-width="4in"/>
+          </media>
+        <caption>Structure of the National Assembly for Wales, from Salvador and Harding (2005). </caption></figure><para id="import-auto-id1170529770730">Funding for the Assembly is provided by the UK Government with adjustments made according to the Barnett formula that effectively sees Wales receive 6% of UK funds, roughly in line with its proportion of population. This mechanism is however seen by many, including its creator, as a badly designed formula in desperate need of replacement that has operated to the detriment of Wales (McLean and McMillan 2003). However, it should be noted that recent years have seen additional funding from the UK Treasury in reflection of support it is receiving from EU Structural Funds (Salvador and Harding 2003), which itself represents an important source of funding. However, this represents only 1% of the annual Assembly budget (Brooksbank et al. 2001).</para>
+        <para id="import-auto-id1170520151658">In terms of economic development the Welsh Development Agency was now accountable to a Cardiff based minister, rather than the Secretary of State for Wales at the Welsh Office in London. The budget for economic development and transport in 2005-06 totalled just under £1.5bn, or 12% of the total Assembly expenditure. It should though be noted that this includes a significant portion for transport. Approximately £120m p.a. has been allocated for ‘Innovation and Competitiveness’ with a further £80m p.a. for ‘Entrepreneurship’ (WAG 2005). </para>
+        <para id="import-auto-id1170527415190">Much commentary and study has been of this transition, often in comparison with the ‘settlements’ in the other devolved regions of the United Kingdom (Morgan 2001, Salvador and Harding 2005, Cooke and Clifton 2005), as a new level of politics was introduced to Wales. Some observers argue the asymmetric settlements have led to varying outcomes for individual regions (Cooke and Clifton 2005), while others such as Morgan (2001) describe the risk of highlighting regional inequalities and developing interregional rivalry rather than co-operation.  The observations of Cooke and Clifton (2005) are of particular relevance to this study. They argue that a project such as Technium is an ‘overambitious’ initiative and a return by the Assembly to the ‘Field of Dreams’ approach as part of a ‘precautionary’ approach to economic development. </para>
+      </section>
+    </section>
+    <section id="import-auto-id1170532399868">
+      <title>Knowledge Economy and Innovation</title>
+      <para id="import-auto-id1170528280310">The previous section has outlined the migration of the Southwest Wales region from an industrial base built upon heavy industries to one which is more knowledge driven. This section provides an overview of the Knowledge Economy with global, national and regional perspectives. </para>
+      <para id="import-auto-id1170527264454">Here we introduce the concept of knowledge and its role in the Knowledge Economy, together with a ‘three pillar’ model of the Knowledge Economy consisting of: Human Capital, Innovation and Infrastructure. This model is then used in subsequent sections to discuss the Knowledge Economy at the Global, European, UK and Regional levels. </para>
+      <section id="import-auto-id1170521267940">
+        <title>Growth of the Global Knowledge Economy</title>
+        <para id="import-auto-id1170520137039">Economies have always been built upon knowledge (EU 1997), though it is only recently that knowledge has become the driving force behind regional, national and global economies. Developed nations such as the UK have seen their economies become increasingly dependent upon knowledge sectors, particularly over recent years. </para>
+        <para id="import-auto-id1170522907690">While much discussion has been made of the rise of the US Knowledge Economy during the 1990s (Porter and Stern 1999), the development of the Knowledge Economy has taken place throughout the world over a more significant timescale. This is shown in <link target-id=" import-auto-id1170522906652"/> where the increase in high-technology exports from all OECD nations has taken place since the end of the 1970s (OECD 1996).</para><figure id="import-auto-id1170522906652"><media id="import-auto-id1170522439970" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-c0ee.jpg" width="450" print-width="4.5in"/>
+          </media>
+        <caption>Total OECD high-technology exports as a percentage of total manufacturing exports (OECD 1996). </caption></figure><para id="import-auto-id1170519821448">The behaviour of economies has traditionally been studied in relation to the availability and application of production factors of labour, land, capital and natural resources. Economic growth has come from improvements in productivity of these factors, improved labour productivity (e.g., improved skills or longer hours), better use of land (e.g., larger farms), restructuring of industries (e.g., vertical integration) and technological change (e.g., the steam engine) or a combination thereof (Samuelson 1964). However, recent years have seen the emerging dominance of another production factor – knowledge. This also changes the way in which resources are considered for the most important ones are now <emphasis effect="italics">created</emphasis>, rather than <emphasis effect="italics">inherited</emphasis> (Porter 1990) This relates to creating competitive advantage at both the individual firm (Porter 1985) and national levels (Porter 1990). This is captured in the following observation by the World Bank (World Bank 1998):</para>
+        <para id="import-auto-id1170527404703"> “<emphasis effect="italics">For countries in the vanguard of the world economy, the balance between knowledge and resources has shifted so far towards the former that knowledge has become perhaps the most important factor determining the standard of living</emphasis>”</para>
+        <para id="import-auto-id1170521279434">Herein we examine the concept of the knowledge economy at the global, European, national and regional (Wales and South West Wales) levels. </para>
+      </section>
+      <section id="import-auto-id1170529221415">
+        <title>Knowledge</title>
+        <para id="import-auto-id1170523157261">In consideration of the Knowledge Economy it is useful to consider the core concept: knowledge itself. Traditional economic factors can be (relatively) easily defined and quantified. For example capital can be counted in pounds or dollars, land - in acres or hectares, labour (considered as a physical resource) – number of men (and women) and natural resources in volumes of reserves. There are of course other issues to consider regarding factors, such as quality (e.g., whether land is fertile or located in a useful position such as on a major river or coast, and purity of mineral resources). </para>
+        <para id="import-auto-id1170520186850">However, each of the traditional resources is finite and subject to ‘<emphasis effect="italics">scarcity</emphasis>’ whereby choices have to be made as to how they are to be applied (Samuelson 1964). Knowledge on the other hand is different in that it can be duplicated and disseminated. This means that value can often be exploited from the same instance of the resource several times. Doring and Shnellenbach (2006) provide a interesting study that investigates how this occurs, allowing growth that runs contrary to the traditional neoclassical economics suggestion that growth would only occur in step with the ‘stock’ of new knowledge. Furthermore, when knowledge is mixed with other knowledge further opportunities can be realised. This phenomenon is discussed in the context of ‘<emphasis effect="italics">Knowledge Spillovers</emphasis>’ later in this section.  Knowledge is also regarded as a public good and therefore monopolisation of its use is both difficult in terms of practicality and acceptability (World Bank 1999) </para><section id="import-auto-id1170526327066">
+          <title>Knowledge Types</title>
+          <para id="import-auto-id1170530392392">Knowledge exists in various forms which make it complex and therefore difficult to use in economic analysis. The OECD report ‘<emphasis effect="italics">The Knowledge-Based Economy</emphasis>’ (OECD 1996) describes types as including ‘<emphasis effect="italics">Know-what</emphasis>’, referring to facts, ‘<emphasis effect="italics">Know-why</emphasis>’, relating to knowledge such as scientific principles and laws, ‘<emphasis effect="italics">Know-how</emphasis>’ for knowledge such as skill in using a machine or judging a market and ‘<emphasis effect="italics">Know-who</emphasis>’, in recognition of relationships and access to further knowledge (OECD 1996).</para>
+          <para id="import-auto-id1170518197529">A useful common dichotomy for knowledge types is into ‘<emphasis effect="italics">codified</emphasis>’ and ‘<emphasis effect="italics">tacit</emphasis>’ types. (Lundvall and Johnson 1994). Codified knowledge is that which is recorded onto some form of media and which can be transferred to others for their use. Tacit knowledge exists within people and is regarded as requiring ‘face to face’ interaction between supplier and recipient for its transferral (Boddy 2005). A useful illustration of these knowledge types is provided by the World Bank (World Bank 1999); blueprints of a system are an example of codified knowledge, while the experience of an engineer to find the route of a malfunction demonstrates the importance of tacit knowledge. Information, knowledge and its typologies are studied in detail in the work of Lundvall (Lundvall 1998) who provides a useful explanation of how tacit knowledge arises through;</para><para id="import-auto-id1170527339620"> “<emphasis effect="italics">…learning gives rise to know-how, skills and competencies which are often tacit rather than explicit and which cannot easily be transmitted through telecommunications networks.</emphasis>”</para>
+          <para id="import-auto-id1170520395961">Tacit knowledge itself comprises various elements – namely information, skills, judgement and wisdom (Gorman 2002). These elements can be developed in an individual over decades from unique experiences, including from previous employment (Lawson and Lorenz 1999).  Lawson and Lorenz also describe a form of tacit knowledge arising from ‘shared learning’ within an organisation. </para>
+          <para id="import-auto-id1170528052772">By its very nature, tacit knowledge is more difficult to duplicate and is therefore central in holding competitive advantage (Coates and Warwick 1999). Its importance has increased significantly with the advent of ICT. As codified knowledge can be disseminated at ever-increasing speeds its exclusivity is easily lost beyond a region. Meanwhile the tacit knowledge, which does not so easily diffuse, can provide competitive advantage to those who have access to it; i.e., those nearby. The idea is captured by Asheim and Isaken (2002) in terms of ‘<emphasis effect="italics">Local ‘Sticky’ </emphasis>and<emphasis effect="italics"> ‘Global Ubiquitous’</emphasis>. This is an underlying principle that supports <emphasis effect="italics">knowledge spillovers</emphasis> and the development of <emphasis effect="italics">clusters</emphasis>.</para>
+        </section>
+      </section>
+      <section id="import-auto-id1170530375015">
+        <title>The Knowledge Economy / Knowledge-based economy</title>
+        <para id="import-auto-id1170522908481">The term knowledge-based economy stems from <emphasis effect="italics">‘the fuller recognition of the role of knowledge and technology in economic growth’</emphasis> (OECD 1996). The role of knowledge in the economy is embraced in a wide set of concepts including the ‘<emphasis effect="italics">knowledge-driven economy</emphasis>’, ‘<emphasis effect="italics">knowledge-based society</emphasis>’, ‘<emphasis effect="italics">the new economy</emphasis>’, the ‘<emphasis effect="italics">weightless economy</emphasis>’ and the ‘<emphasis effect="italics">learning economy</emphasis>’ (Boddy 2005). Although each of these concepts has been developed by authors examining different perspectives of economics they may be treated as synonymous. </para>
+        <para id="import-auto-id1170518136468">Recent years have seen the greater recognition and discussion of the importance of knowledge due to reasons including disruptive technological advance and globalisation. The drivers of this new ‘knowledge economy’ have been summarised as (DTI 1999): </para>
+        <list id="import-auto-id1170522439833" list-type="bulleted">
+          <item>Revolutionary changes in information and communications technology (ICT). </item>
+          <item>More rapid scientific and technological advance. </item>
+          <item>Competition becoming more global. </item>
+          <item>Changes in income, tastes and lifestyle. </item>
+        </list>
+        <para id="import-auto-id1170529396615">These drivers have combined to make the Knowledge the main factors in economic growth. Expansion in knowledge sectors is outpacing others to such an extent that more than 50% of the GDP of OECD countries are now knowledge-based (OECD 1996). This is highlighted by the United States, where even in the early part of the 20<sup>th</sup> century, 85% economic growth was driven by technological advance (Quah 1999). Further weight is given to this by the changes in employment seen over recent years. Within the EU for example, employment growth in knowledge-based industries has been far stronger than the rest of the economy. This can be seen in the figures from EUROSTAT cited by the Work Foundation shown in <link target-id=" import-auto-id1170525559774"/>. </para><table id="import-auto-id1170525559774" summary="Change in employment in knowledge-based industries in selected EU member states 1995-2005, Work Foundation (2006).">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>
+
+                    <emphasis effect="bold">Change in Employment</emphasis>
+
+                </entry>
+                <entry>
+
+                    <emphasis effect="bold">Knowledge-based industries</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">Other industries</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Spain</entry>
+                <entry>+ 74.6%</entry>
+                <entry>+ 42.4%</entry>
+              </row>
+              <row>
+                <entry>Ireland</entry>
+                <entry>+ 70.7%</entry>
+                <entry>+ 42.9%</entry>
+              </row>
+              <row>
+                <entry>Netherlands</entry>
+                <entry>+ 29.9%</entry>
+                <entry>+ 12.3%</entry>
+              </row>
+              <row>
+                <entry>Finland</entry>
+                <entry>+ 29.6%</entry>
+                <entry>+ 13.5%</entry>
+              </row>
+              <row>
+                <entry>Germany</entry>
+                <entry>+17.1%</entry>
+                <entry>- 8.6%</entry>
+              </row>
+              <row>
+                <entry>UK</entry>
+                <entry>+ 16.7%</entry>
+                <entry>+ 1.0%</entry>
+              </row>
+              <row>
+                <entry>France</entry>
+                <entry>+ 16.3%</entry>
+                <entry>+ 7.3%</entry>
+              </row>
+              <row>
+                <entry>Denmark</entry>
+                <entry>+ 11.6%</entry>
+                <entry>- 0.2%</entry>
+              </row>
+              <row>
+                <entry>Sweden</entry>
+                <entry>+ 12.8%</entry>
+                <entry>+ 2.0%</entry>
+              </row>
+              <row>
+                <entry>EU-15</entry>
+                <entry>+ 23.9%</entry>
+                <entry>+ 5.7%</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Change in employment in knowledge-based industries in selected EU member states 1995-2005, Work Foundation (2006). </caption>
+</table><para id="import-auto-id1170530399351">In <link target-id=" import-auto-id1170525559774"/> it can be clearly seen that many of the countries experiencing the greatest growth in knowledge-based industries are those developing from the weakest bases. These figures are projected against a period of economic change that saw recession in much of the Euro-zone during the early years of the 21<sup>st</sup> century. This is apparent in the ‘other industries’ statistic in figure for Germany, which was particularly hard hit during this period.</para><section id="import-auto-id1170524310783">
+          <title>Defining a Knowledge Economy</title>
+          <para id="import-auto-id1170526343600">The role of knowledge in the Knowledge Economy is described in the definitions of the Knowledge Economy provided by the OECD (OECD 1996) and the UK DTI (DTI 2004):</para>
+          <para id="import-auto-id1170522907828">“<emphasis effect="italics">…economies which are directly based on the production, distribution and use of knowledge and information</emphasis>”</para>
+          <para id="import-auto-id1170529359151"> “<emphasis effect="italics">…one in which the generation and exploitation of knowledge has come to play the predominant part in the creation of wealth</emphasis>”</para>
+          <para id="import-auto-id1170523445063">While the above is useful in defining and understanding the origins of the Knowledge Economy, how can it be determined whether an economy is knowledge-based?</para>
+          <para id="import-auto-id1170526327603">Methods such as the World Bank Knowledge Assessment Methodology (KAM) exist for benchmarking performance of countries in the transition to a knowledge-based economy. This builds upon the World Bank ‘Pillar Model’ of the Knowledge Economy, which describes the key supports of such an economy as being (World Bank 1998):</para>
+        </section>
+        <section id="import-auto-id976681">
+          <title>Human Capital: Educated and skilled workers</title>
+          <para id="import-auto-id1170529662768">People; their knowledge, talents, ideas and graft form the fundamental pillar of the Knowledge Economy. Developing a successful regional Knowledge Economy depends upon creating and nurturing the skills, aspirations and motivations of the people therein and attracting talent from outside. </para>
+        </section>
+        <section id="import-auto-id1170529628408">
+          <title>Innovation: An effective innovation system</title>
+          <para id="import-auto-id1170527319359">Regional innovation systems have been shown to be the motors of the Knowledge Economy (UNIEDO 2003). A region’s ability to develop new products and services and improve upon the manner it produces existing ones is key in determining its economic fortune. Along with companies these systems include interrelated actors including universities, research centres, knowledge services etc.</para>
+        </section>
+        <section id="import-auto-id1170520053632">
+          <title>Infrastructure: A modern and adequate information infrastructure</title>
+          <para id="import-auto-id1170520179239">To facilitate innovation and create clusters of growing knowledge-based businesses an infrastructure is required for its support. Infrastructure not only encompasses physical entities such as development facilities, offices and ICT systems. ‘Soft’ infrastructure is equally critical. Important examples include not only enterprise and specialist support such as legal services but also knowledge networks of individuals and organisations that disseminate and exploit knowledge and opportunities. </para>
+        </section>
+        <section id="import-auto-id1170525768927">
+          <title>Economic and Institutional Regime</title>
+          <para id="import-auto-id1170530404613">The economic environment of a nation or region plays an important part in the growth of the Knowledge Economy. Factors such as taxation, strength of Intellectual Property Rights, export controls/tariffs etc. are examples of this economic and institutional regime. Many of these aspects of the Knowledge Economy are managed at the UK or EU level. They therefore fall outside the devolved powers of the National Assembly for Wales and regional actors. It is however, important to understand how they affect the regional Knowledge Economy in order to maximise potential growth and opportunities.</para>
+          <para id="import-auto-id1170523385954">Using these pillars the KAM system tracks variety of including: literacy of population; availability of ICT; levels of entrepreneurship and innovation; proportion of population with higher-level skills etc. As these indices are easily collated and comparable between nations it makes benchmarking straightforward. However, as the methodology was developed to assist developing countries, many of the indices used are less relevant to developed nations. </para>
+        </section>
+        <section id="import-auto-id1170527267477">
+          <title>Threshold of a Knowledge Economy</title>
+          <para id="import-auto-id1170520208702"> While the concept of the Knowledge Economy is clear, the challenge remains in determining the extent to which an economy is knowledge intensive (Shapira et al., 2005). A practical approach toward defining whether an economy is ‘knowledge-based’ is to determine whether it exceeds a threshold of knowledge intensiveness. Using their sectoral definition of the Knowledge Economy the OECD (OECD 1996) provides such an approach, defining a knowledge-based economy as being:</para>
+          <para id="import-auto-id1170519819096"> “<emphasis effect="italics">..an economy in which more than 40% of employees are employed in high technology manufacturing and knowledge-intensive industries</emphasis>”</para>
+          <para id="import-auto-id1170524532225">Cooke and De Laurentis (2003) have used this approach to study the role of the Knowledge Economy in various European regions demonstrating significantly varying knowledge intensiveness across the EU. </para>
+          <para id="import-auto-id1170527992658">This approach of tracking knowledge intensive sectors provides a useful metric in that it makes use of official statistics that are consistent across national and regional boundaries. However, a sectoral approach is limiting in that the Knowledge Economy is relevant to all industries, not only those included in the definitions provided by EUROSTAT and the OECD (1996). This applies in particular to those sectors not related to science, engineering and technology (SET). </para>
+        </section>
+      </section>
+      <section id="import-auto-id1170519416322">
+        <title>Context of Global R&amp;D</title>
+        <para id="import-auto-id1170524003290">Innovation, the exploitation of new ideas, is absolutely essential to safeguard and deliver high-quality jobs, successful businesses, and better products and services for our consumers, and new, more environmentally friendly processes.</para>
+        <para id="import-auto-id1170524596898">The importance of innovation is highlighted in the UK Department of Trade and Industry (DTI) economics paper; <emphasis effect="italics">Competing in the Global Economy: The Innovation Challenge</emphasis>. Despite there being no single indicator of national innovation performance it was found through a range of measures that the UK is lagging behind other advanced economies. The measures used examined patenting, business expenditure on R&amp;D and other related indicators.</para>
+        <para id="eip-193">The difference in our innovation intensity is highlighted by <link target-id=" import-auto-id1170524134592"/>, showing a far higher number of employees working in R&amp;D in the US and leading competitor countries. This combined with an ever-declining number engineering and science graduates has created a less innovative culture. However, compared to European competitors the Community and Innovation Study (CIS) statistics show a relatively large proportion of UK companies bringing new products or services to market or developing new process technologies (EU 2003). </para><figure id="import-auto-id1170524134592"><media id="import-auto-id1170519331792" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-bb62.jpg" width="500" print-width="5in"/>
+          </media>
+        <caption>Business enterprise researchers per thousand employments in industry, 2000 Source: OECD, 2000. </caption></figure><para id="import-auto-id1170531738454"><link target-id=" import-auto-id1170519075686"/> shows the level of expenditure in R&amp;D of regions that are member of Organisation for Economic Co-operation and Development. Demonstrating the level at which the US spends in relation to R&amp;D exceeds that of the EU with the UK included. Innovation is created through innovation systems, which are inherently linked to research and development. Understandably a key factor in measure of innovation is patents. Looking at patents is a good measure, however there are inherent and significant differences between the patenting systems of the US and UK which must be considered and addressed in order to understand how the systems are used.</para><figure id="import-auto-id1170519075686"><media id="import-auto-id1170525390717" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-daa8.jpg" width="450" print-width="4.5in"/>
+          </media>
+        <caption>Global R&amp;D expenditures in the OECD area 1981-2000. </caption></figure></section>
+      <section id="import-auto-id1170526019192"><title>Patenting in the US and UK</title><para id="import-auto-id1170526282646">Intellectual property (IP) is a highly valuable asset. The accounting firm Duffs &amp; Phelps estimates that on average 87 percent of company value in 2002 was in intangibles including IP. (Jarboe 2008)</para>
+        <para id="import-auto-id1170530392934">Patents are the codification of research and development into a property right. They are a key step in protecting and subsequently realising the value of the company's R&amp;D investment. Not all patents are equal, as can be clearly seen in blockbuster patents on drugs or fundamental electronics or computer inventions. Therefore, the number of patents alone is not a measure of value. There are several factors that determine value, including whether a company uses its patent portfolio to protect its business by litigation or generate income from licensing.</para>
+        <para id="import-auto-id1170519339878">Furthermore it must be considered whether competitors respect a company's patents and avoiding them or designing around them, thereby allowing the patent holder to price its products without infringement of their rights. As a general rule a robust patent portfolio indicates a successful R &amp; D program available for management to use to create value. Patents are being treated more like other types of property. They are licensed, sold and used as equity in joint ventures. Licensing is a substantial business with annual royalty revenue estimated at over $125 billion a year and growing. Most of this activity comes from licenses between corporations in the pharmaceutical/biotech, chemical and manufacturing industries (Cohen 2008).</para>
+        <para id="import-auto-id1170522906567">“Patents are a recently rediscovered corporate weapon.” For most of this century," says Rivette and Kline, "intellectual property played only a minimal role in shaping the commercial and strategic fortunes of American business. Patents were for the most part used defensively, if at all and few companies outside the pharmaceutical, biotechnology, or certain other sectors ever thought of them as strategic assets" (Rivette 2000).</para>
+        <para id="import-auto-id1170525824407">The knowledge economy is all about the commercial exploitation of new ideas. It is essential that in any organisation or company have a carefully planned strategy for the management of it intellectual property. Indeed copyright is now one of the biggest US exports (International Intellectual Property Alliance 2002). </para>
+        <para id="import-auto-id1170518535005">During the research it was found that there exists an uneven playing field regarding intellectual property management and protection that lends itself to the US patent system giving its citizens, universities and companies a significant advantage over its UK counterparts.</para>
+        
+        
+        <list id="eip-48"><item>The first being the first to invent.  The US system is first<sup/>to invent and the EU and UK systems are first<sup/>to file. This is particularly useful to academics that can seek protection from the priority date on which the concept is invented. The second advantage is that a US inventor can make a public disclosure though still be protected in the US market. However the US inventor has sacrificed any Patent Cooperation Treaty (PCT) application. </item>
+          <item>The US patent system also has a Provisional Patent System. This Provisional Patent filing requires a superficial document containing claims only, not the specific details as required by UK patents. This allows greater flexibility in developing the technology and drafting the application.</item>
+          <item>The patenting process itself is a cheaper process. US universities and companies enjoy a cost advantage when it comes to obtaining IP protection, along with the economies of a large domestic market and other beneficial idiosyncrasies of the US patent system. For example first 2 year protection of IP costs in the US can be $500, to the UK $5000, offering the same level of IP protection. </item>
+          <item>Another key advantage is efficiency of the patent process and its time to grant. US patents can be granted in 18 months to 2 years, whereas the European system can take significantly longer. This is borne out by the work under progress at the University of Wales Swansea, investigating the patenting in universities.</item>
+        </list><para id="import-auto-id1170519825610"><link target-id=" import-auto-id1170518463416"/> shows national output of granted patents over a period of 11 years, clearly showing the US far ahead of the UK in the race for granted patents. Overall, the UK has a strong science base, but lags in patenting and commercialisation. Also, the UK’s strength in the life sciences masks lower performance in other areas of science and technology. Current levels of UK innovation are insufficient to drive UK productivity growth and close the UK productivity gap versus key competitors (DTI 2003).</para>
+
+
+          
+          <figure id="import-auto-id1170518463416"><media id="import-auto-id1170519814223" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics5-d298.jpg" width="500" print-width="5in"/>
+            </media>
+          <caption>International Patenting Output <emphasis effect="italics">Source</emphasis>: US Patent and Trademark Office (2002), author’s analysis. </caption></figure>
+
+
+        
+        <para id="import-auto-id1170527538281">The experience curve that a university holds also plays a factor in the efficiency of the IP management process. Many US universities have extensive experience of IP management, which is not replicated in the UK. The US government has used the Patent and Trademark Law Amendments Act 1980 (Bayh-Dole Act) to facilitate and remove barriers for the management and utilisation of IP by and for universities and small businesses. This Act obliged US universities to commercialise its IP, the US universities have had 25 years to streamline the process and create an efficient system of IP commercialisation potential and evaluation. </para>
+        <para id="import-auto-id1170520117614">US universities have also been able to utilise professional groups such as the Association of University Technology Management (AUTM), who have assisted in setting up framework for best practice in the management of IP in US universities. The UK though have acted back by creating <emphasis effect="italics">Knowledge Transfer Networks (KTN)</emphasis>, to draw together sector focused communities and <emphasis effect="italics">Knowledge Transfer Partnerships</emphasis><emphasis effect="italics">(KTPs)</emphasis> to support discreet projects involving academic-industrial collaboration have been set up to drive the flow of knowledge within and in and out of specific communities.</para>
+        <section id="import-auto-id1170522449738">
+          <title>Knowledge Transfer Networks</title>
+          <para id="import-auto-id1170527147304">Knowledge Transfer Networks provide both a vehicle for the community to develop its ideas and interactions and a communications route between that community and the Government. Their activities are increasingly playing an important role in the development of the Government's Technology Strategy and as focal points for the Technology Programme.  They are an evolving part of the overall Government Technology Strategy and the Technology Strategy Board has put in place a review of their goals and activities which reflect their growing importance and to ensure that we move towards a coherent and integrated use of KTNs to feed and drive the Collaborative Research &amp; Development programme and other innovation interventions (www.ktnetworks.co.uk, 2007). </para>
+        </section>
+        <section id="import-auto-id1170518794780">
+          <title>Knowledge Transfer Partnerships</title>
+          <para id="import-auto-id1170520163766">Knowledge Transfer Partnerships (KTP) is a UK based program to support business in improving their competiveness and productivity through the better use of knowledge, technology and skills that reside within the UK knowledge base. KTP is funded by the Technology Strategy Board with 17 other funding organisations. Each partnership employs one or more high calibre Associates (recently qualified people) to work on a project, which is core to the strategic development of the business.  Both of these, Technology Strategy Board, (formerly known as the DTI) initiatives aim to address some of these disparities (www.ktponline.org.uk, 2007). </para>
+        </section>
+        <section id="import-auto-id1170520049370">
+          <title>KESS</title>
+          <para id="import-auto-id1170522448862">In November of 2009 the Welsh Assembly Government unveiled a £33 million programme that is focused in the Convergence region of Wales, aimed at providing hundreds of scholarship opportunities to develop the skills needed to drive Wales' Knowledge Economy forward. Each scholarship aims to provide an annual bursary of up to £13,300 as well as research and business training tailored to each individual. The program focuses on sectors that the Welsh Assembly Government has identified as key sector low carbon economy, health and bioscience as well as advanced engineering and manufacturing. The scholarships goal is to deliver the high level skills needed by businesses in Wales, building knowledge and boosting the R&amp;D capability in the strategically important sectors of the Welsh economy.</para>
+        </section>
+        <section id="import-auto-id1170528327287">
+          <title>POWIS</title>
+          <para id="import-auto-id1170522496832">The Prince of Wales Innovation Scholarships (POWIS) program is aimed at providing 100 world-class graduates to welsh SME’s between 2009 and 2014. Each of the scholars is partly funded by the European Union and places scholar within a company for a period of three years, during which the scholars undertake research and development on any aspect of the company’s work; whether being to improve the company’s products and services, internal processes or the way that they interact with other companies. Each of the scholars is supported by a project manager, a local academic supervisor and a local or international academic supervisor with expertise in the chosen field of research. The scholar is expected to be based with their host company in Wales on a full time basis and use the outcomes of that time to complete a PhD (www.wales.ac.uk, 2010).</para>
+        </section>
+      </section><section id="import-auto-id1170519956534">
+        <title>Non-SET and Service sectors</title>
+        <para id="import-auto-id1170518528589">Knowledge-economy activities are often noticeable in the domains of Science, Engineering and Technology, particularly those that manufacture some patented product, though it is important to give consideration to the wider economy, in particular the service sector. Many of these, such as finance and telecommunications are captured in the OECD ‘<emphasis effect="italics">knowledge-intensive industries</emphasis>’ definition (Coates and Warwick 1999). Growth in services led to almost all of the new jobs created in the EU in the period 1997-2002 and account for 70% of EU added value (EU 2005). </para>
+        <para id="import-auto-id1170518458754">The importance of all sectors to the Knowledge Economy is emphasised by Michael Porter in ‘<emphasis effect="italics">The New Challenge to America’s Prosperity: Findings from the Innovation Index</emphasis>’, (Porter and Stern 1999) where he outlines that there are no ‘low tech’ industries, only companies that fail to embrace new ideas and methods into their products. Porter and Stern also emphasise innovation in the context of ‘<emphasis effect="italics">discerning and meeting the needs of customers</emphasis>’, rather than being a domain restricted to science and engineering, arguing that improvements in marketing, distribution and service can be as important as those generated in laboratories relating to new products and processes.</para>
+        <para id="import-auto-id1170520162773">The role of the service sector in the Knowledge Economy and its economic impact is emphasised by the growth in knowledge services over the past decade. This is shown below in <link target-id=" import-auto-id1170526918483"/>, cited from the Work Foundation report for the 2007 EU Spring Council (Work Foundation 2006).</para><table id="import-auto-id1170526918483" summary="Growth in knowledge services in EU15 1995-2005 Source: EUROSTAT, cited from Work Foundation 2006.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>
+
+                    <emphasis effect="bold">Knowledge services</emphasis>
+
+                </entry>
+                <entry>
+                    <emphasis effect="bold">Change (jobs)</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">Change %</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Business and Communications</entry>
+                <entry>+ 5,090,000</entry>
+                <entry>+ 54.5%</entry>
+              </row>
+              <row>
+                <entry>High tech services</entry>
+                <entry>+ 1,581,000</entry>
+                <entry>+ 37.1%</entry>
+              </row>
+              <row>
+                <entry>Health and Education</entry>
+                <entry>+ 6,838,000</entry>
+                <entry>+ 26.7%</entry>
+              </row>
+              <row>
+                <entry>Financial Services</entry>
+                <entry>+ 129,000</entry>
+                <entry>+ 2.5%</entry>
+              </row>
+              <row>
+                <entry>Total Knowledge Services</entry>
+                <entry>+ 13,637,000</entry>
+                <entry>+ 30.7%</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Growth in knowledge services in EU15 1995-2005 Source: EUROSTAT, cited from Work Foundation 2006. </caption>
+</table><para id="import-auto-id1170523431340">The importance of non-SET sectors is supported by historical observations. Peter Drucker in his book ‘<emphasis effect="italics">Innovation and Entrepreneurship</emphasis>’ (Drucker 1985) describes how the economic growth of the US in the second half of the 20<sup>th</sup> Century saw only one eighth of new jobs created in high technology. In fact technological effects such as automation often had negative effects on job creation.  However, while robots appearing in factories may be an obvious example of how technology has affected manufacturing industries it should be remembered that something similar has also happened in the service sector. Telephone and on-line banking, e-commerce etc., are all examples of how growth in services has been accompanied by rationalisation and labour saving innovation (Hauknes 1999).</para>
+      </section>
+      <section id="import-auto-id1170522439160">
+        <title>Knowledge Spillovers</title>
+        <para id="import-auto-id1170525412412">Knowledge Spillovers allow knowledge to be reused providing increased productivity through greater leverage of the investment made into its creation or acquisition (OECD 1996). Whereas other resources such as capital or fuel can only be exploited once, knowledge can be used to provide many and separate returns. For example, research for materials to make stronger car components may also allow improvements in aerospace components.</para>
+        <para id="import-auto-id1170526284328">Spillovers can occur between organisations of any type and can be either intra- or inter-industry (Cantwell and Piscitello 2005). They can occur between organisations of any nature, and also through intermediaries (Lawson and Lorenz 1999). Another interesting factor in knowledge spillovers is that they can be voluntary or involuntary (EU 2003). The spill-over of knowledge within regions is an important driver of cluster theory, which is described later in this section, though the spatial spilling of knowledge is not restricted to regions, particularly thanks to modern communications systems and the increasing mobility of workers. Research by Luintel and Khan (2004) for example demonstrates this cluster development role, together with the potential negative effects of spillovers. Their work describes how research and development spillovers from the US provide greater assistance to competitors than that which they receive in return.</para>
+        <para id="import-auto-id1170523440682">Both public and private investments in basic research can have significant spill-over effects beyond their initial objectives (Porter and Stern 1999). Public sources of knowledge are of particular importance as they are more likely to spill-over, as the dissemination of knowledge is typically part of the mission of the public research institution (Doring and Shnellenbach 2006). </para>
+        <para id="import-auto-id1170530386111">The knowledge involved can be technical or non-technical in nature and spill from one industry to another. Tacit knowledge spillovers tend to be localised in nature (Boddy 2005). As ICT makes dissemination of codified information fast and inexpensive, face-to-face interactions and interpersonal relationships have come to have a comparative advantage in facilitating tacit knowledge flows (Porter 1990). The effects of these spillovers have been shown to be important drivers of cluster development.</para>
+        <para id="import-auto-id1170525254713">As described by Doring and Shnellenbach (2006), however, knowledge spillovers do not only give access to ‘exclusive’ knowledge available from a specific source, but also provide easier or cheaper access to other, often widely available knowledge. </para><para id="import-auto-id1170523430980">The effect of knowledge spillovers not only figures as a benefit to existing businesses within a locality, but also as a factor influencing the decisions of multinational firms as to where they locate R&amp;D operations (Cantwell and Piscitello 2005).</para>
+      </section>
+      <section id="import-auto-id1170530389103">
+        <title>Competitive Advantage</title>
+        <para id="import-auto-id1170522183996">When a firm sustains profits that exceed the average for its industry, the firm is said to possess a competitive advantage over its rivals. The goal of much of business strategy is to achieve a sustainable competitive advantage. Michael Porter identified two basic types of competitive advantage:</para>
+        <list id="import-auto-id1170527192184" list-type="bulleted"><item>Cost advantage. </item>
+        <item>Differentiation advantage. </item>
+        </list><para id="import-auto-id1170519866137">A competitive advantage exists when the firm is able to deliver the same benefits as competitors but at a lower cost (cost advantage), or deliver benefits that exceed those of competing products (differentiation advantage). Thus, a competitive advantage enables the firm to create superior value for its customers and superior profits for itself.</para>
+        <para id="import-auto-id1170520177798">Cost and differentiation advantages are known as positional advantages since they describe the firm's position in the industry as a leader in either cost or differentiation. A resource-based view emphasizes that a firm utilizes its resources and capabilities to create a competitive advantage that ultimately results in superior value creation (Hughes 2007). <link target-id=" import-auto-id1170522908592"/> combines the resource-based and positioning views to illustrate the concept of competitive advantage. </para><figure id="import-auto-id1170522908592"><media id="import-auto-id1170519821048" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-8510.jpg" width="500" print-width="5in"/>
+          </media>
+        <caption>A model of competitive advantage. </caption></figure><section id="import-auto-id1170527414778">
+          <title>Resources and Capabilities</title>
+          <para id="import-auto-id5671689">According to the resource-based view, in order to develop a competitive advantage the firm must have resources and capabilities that are superior to those of its competitors. Without this superiority, the competitors simply could replicate what the firm was doing and any advantage quickly would disappear.</para>
+          <para id="import-auto-id1170529678766">Resources are the firm-specific assets useful for creating a cost or differentiation advantage and that few competitors can acquire easily. The following are some examples of such resources:</para>
+          <list id="import-auto-id1170526306445" list-type="bulleted">
+            <item>Patents. </item>
+            <item>Know-how. </item>
+            <item>Facilities. </item>
+            <item>Installed customer base. </item>
+            <item>Reputation of the firm. </item>
+          </list>
+          <para id="import-auto-id1170527058859">Capabilities refer to the firm's ability to utilize its resources effectively. An example of a capability is the ability to bring a product to market faster than competitors. Such capabilities are embedded in the routines of the organization and are not easily documented as procedures and thus making it difficult for competitors to duplicate.</para>
+          <para id="import-auto-id1170526306742">The firm's resources and capabilities together form its distinctive competencies. These competencies enable innovation, efficiency, quality, and customer responsiveness, all of which can be leveraged to create a cost advantage or a differentiation advantage. </para>
+        </section>
+      </section>
+    </section>
+    <section id="import-auto-id1170520335333">
+      <title>The Texas/United Kingdom Collaborative</title>
+      <section id="import-auto-id1170527531404">
+        <title>Overview of the “Collaborative” and Phase I</title>
+        <para id="import-auto-id8372696">The Texas - UK Collaborative was established in the fall of 2002 to foster collaborations among researchers in the nanosciences, information sciences and the biosciences located in top institutions in Texas and the UK thereby building new areas of research and capacity generating new ideas, techniques, products and opportunities.</para>
+        <para id="import-auto-id1170527155265">The top institutions in Texas became partners in Phase I of the Collaborative including Baylor College of Medicine, Rice University, Texas A&amp;M University, University of Houston, University of Texas at Austin, University of Texas Health Science Center at Houston, University of Texas M.D. Anderson Cancer Center and University of Texas Medical Branch (UTMB).</para>
+        <para id="import-auto-id1170524129019">In Phase I thirty thematic events, were organized involving more than 400 researchers from Texas and the UK and 60 collaborations, involving more than 180 researchers, were established. Outputs include fifty manuscripts reporting the results of collaborative research have been prepared and four patents have been filed.</para>
+        <para id="import-auto-id8811764">As scientific advances increasingly emerge from collaborative efforts, the resolution of the world’s greatest challenges will depend upon, and result from, the internationalization of research.  Initiated in January 2003 by the DTI through Lord Sainsbury in the UK, Malcolm Gillis at Rice University and Iain Murray the then Consul General in Houston, The Texas-United Kingdom Collaborative harnesses the collective experience and ambitions of nine universities and medical colleges in Texas and nine universities in the UK including the UK's top universities. The Collaborative was created to stimulate the exchange of ideas and research in the fields of biomedicine, nanotechnology and information and communications technology (ICT). Since its inception in 2003, the Collaborative has brought together some of the world's leading scientists, engineers, and medical experts to foster collaborative research projects in areas such as biomedicine, biotechnology, and nanotechnology. Texas is a leading centre of bioscience research and is home to the world's largest medical centre, situated in Houston, with more than 35 million square feet of space housing more than 70,000 personnel. In 2008, Texas has been named as one of the top five regions in the world for biotechnology development.<emphasis effect="italics"/>Texas also ranks as the fourth largest recipient of US Federal Research Dollars, amounting to almost US$1.5 billion per annum. Most recently the State of Texas has committed US$3 billion over 10 years to cancer research and is looking for international partnerships to make the best use of this money.  The UK has complementary strengths in the biosciences and rapidly growing expertise in nanotechnology. </para>
+      </section>
+      <section id="import-auto-id1170522441917">
+        <title>The Texas/UK Collaborative Phase I Translational Outcomes</title>
+        <para id="import-auto-id1170527556315">The importance of translational outcomes of Phase I of the “Collaborative” was enhanced by the standing of both Texas and Houston in the medical, bioscience and nanotechnology fields. The UT MD Anderson Cancer Center located in the TMC is ranked the number one Cancer Research Center in the US. Rice University, located in Houston, opened the Smalley Center for Nanoscale Science and Technology in 1993, the first such center in the world, Rice leads in the development and commercialization of nanotechnology in several sectors including medical and bio sciences. </para>
+        <para id="import-auto-id1170527725014">The Alliance for NanoHealth, an alliance of all academic institutions in the region and internationally, has more than 170 researchers researching applications of nanotechnology in medicine and health. The University of Texas Medical Branch in Galveston with international recognition in emerging infectious diseases is home to a National Laboratory providing Bio-safety Level 4 (BSL-4) facilities. All of these attributes compound the expertise in translating basic and applied research. </para>
+        <note id="eip-295">Bio-safety level 4 is the highest level of bio-safety. This level is used for the diagnosis of exotic agents such as the Ebola virus that pose a high risk of life-threatening disease, which may be transmitted by the aerosol route and for which there is no vaccine or therapy (www.medterms.com, 2008). </note><para id="import-auto-id1170521520391">Phase I demonstrated that collaboration between member institutions could lead to significant benefits to academic partners and impact upon the regional knowledge economy. Examples of such outcomes include:</para>
+        <section id="import-auto-id1170525105088">
+          <title>Texas Proteomic Collaborative</title>
+          <para id="import-auto-id1170530408934">Building on an agreement, signed on December 15, 2004, between M. D. Anderson Cancer Research Center and Imperial College London, for the establishment of a research program focused on identifying new molecular targets for cancer diagnosis and treatments. Both MD Anderson and Imperial are internationally renowned for their commitment to and excellence in translational medicine, driving pioneering cancer research from the laboratory to patient therapies at the bedside. Both institutions invested in technology transfer and collaborative applied research initiatives in order to bring research discoveries to the market for the benefit of cancer patients. The strategy of the collaboration is to maximize their strengths in basic science research and clinical programs, accelerating the speed of scientific discoveries. Creating advantage for both MD Anderson and Imperial, were as M. D. Anderson could look for additional opportunities to identify promising new anticancer agents for clinical development and investigate new methods for diagnosing and treating cancer, and Imperial could expand its range of research programs and further contribute to the improvement of healthcare globally.</para>
+          <para id="import-auto-id1170530405665">The Rector of Imperial at the time, Sir Richard Sykes, said, "Cancer research has long been a major focus at Imperial, and collaborations with such prestigious international partners as M. D. Anderson will help to further strengthen exploration of cancer treatments as a key part of Imperials research strategy."</para>
+          <para id="import-auto-id1170526963534">The Proteomics Collaborative between the two institutions received $1M for its development and was significantly supported by the Texas/ UK Collaborative.</para>
+        </section>
+        <section id="import-auto-id1170529238537">
+          <title>Endomagnetics Ltd.</title>
+          <para id="import-auto-id1170526041909">At the close of Phase I of the “Collaborative” there were research collaborations that lead to translational outcomes, two of which have significant results.  Endomagnetics Ltd, a spin out company from the University of Houston and University College London, supported by the Collaborative, have completed a clinical trial detecting Sentinel Lymph nodes in 12 breast cancer patients (<link target-id=" import-auto-id1170527406118"/>). This technology allows for enhanced Sentinel node biopsy results in shorter breast cancer operations and better patient recovery, which saves money and frees up resources for healthcare providers like the NHS in the UK. There is also the opportunity to move the operations away from the largest cancer centres – the ones with access to radioactive tracers – to short-stay clinics and regional hospitals, which help to spread the load and to provide the services that patients need, locally. </para><figure id="import-auto-id1170527406118"><media id="import-auto-id1170522181713" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-f3f3.jpg" width="600" print-width="6in"/>
+            </media>
+          <caption>University of Houston and University College London spin-out: Endomagnetics Ltd.</caption></figure></section>
+        <section id="import-auto-id1170530393084">
+          <title>National Institute of Health Quantum Grant Award</title>
+          <para id="import-auto-id1170527273726">Inclusive to this outcome there was the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the National Institutes of Health (NIH) established the Quantum Grants Program to make a profound (quantum) improvement in health care. This program challenged the research community to propose projects that have a highly focused, collaborative, and interdisciplinary approach targeted to solve a major medical problem or to resolve a highly prevalent technology-based medical challenge. The program consists of a 3-year exploratory phase to assess feasibility and identify best approaches, followed by a second phase of 5 to 7 years. To date, the NIBIB has awarded Quantum Grants to five interdisciplinary teams. The research collaboration between Baylor College of Medicine, Rice University, the National Institute of Medical Research in London, King's College of London, and Edinburgh University<emphasis effect="bold"/>received<emphasis effect="bold"/>NIBIB Awards First Quantum Grant of $2.9 Million over three-year<emphasis effect="bold"/>on for Engineering Brain Microenvironments to Promote Stroke Recovery. A stroke occurs when compromised blood flow to the brain results in the death of neurons. Individuals who have had a stroke may experience partial paralysis or problems with awareness, attention, learning, judgment, memory or speech. Post-stroke rehabilitation can help stroke victims overcome some of these disabilities, but does not promote regeneration of the underlying damaged brain tissue. Injection of naked neural stem cells can stimulate some repair, but is generally inefficient.</para>
+          <para id="import-auto-id1170527129245">With support from multiple corporate partners, an international team of researchers is integrating cutting-edge imaging and engineering techniques to map and regenerate the stem cell niche of the brain regions that promote generation of new neurons. The team has already discovered that the niche contains neural precursors in intimate association with capillaries that provide (at a minimum) critical nutrition and communication. The ultimate goal is to bioengineer an <emphasis effect="italics">ex vivo </emphasis>system mimicking these niches. It is hoped that these neurovascular units can eventually be used to replace and/or drive repair of stroke-damaged tissue.</para>
+        </section>
+      </section>
+      <section id="import-auto-id1170519885778">
+        <title>Phase II and Swansea “Joins the Club”</title>
+        <para id="import-auto-id1312574">With the successes in Phase I and with the increasing emphasis on and funding opportunities for international research collaborations in Texas funding of US$1.0MM over 4 years was secured from the Farish Fund Foundation of Houston to support Phase II of the Collaborative.  The President of the Farish Foundation, Ambassador Farish, was the US Ambassador to the United Kingdom from 2001 to 2005. This funding together with contributions from the participating institutions in Texas and in the UK and additional sources provides the resources for the Collaborative. The projected budget over four years is approximately US$5 million.</para>
+        <para id="import-auto-id1170528256718">The Collaborative supports thematic workshops, bringing researchers from diverse backgrounds to focus on specific problems; research planning meetings for the preparation of research proposals; faculty/student visits/exchanges, including student internships; and provide resources to seed fund research.</para>
+        <para id="import-auto-id1170530398247">Phase II of the Collaborative consists of the institutions in Texas previously mentioned in Phase I, together with the Methodist Hospital Research Institute, and the institutions in the UK most engaged in Phase I, which include Imperial College London, University of Cambridge and University College London. The Welsh Partner is Swansea University. </para>
+        <para id="import-auto-id1170527332414">Dr. Malcolm Gillis, former president of Rice University who played the leading role in the establishment of the Collaborative in 2002, serves as the Executive Director.  The Collaborative is led by the founding Director, Denis Headon, working with an advisory group composed of one representative from each of the participating institutions.  The UK institution representatives include Professor Mary Ritter, Pro Rector for Postgraduate and International Affairs, Imperial College London; Professor Mike Spyer, Vice-Provost (Enterprise), University College London; Professor Ian Leslie, Pro-Vice-Chancellor (Research), University of Cambridge; and Professor Richard Oreffo, Professor in Musculoskeletal Science, University of Southampton.</para>
+        <para id="import-auto-id1170522441970">The Collaborative requires total funding of approximately US$1.5MM per year supporting thematic workshops, research planning meetings, personnel exchanges (including student training through internships) and visits by individual researchers to Texas and to the UK. The budget for the UK shows a £600K over four years, in addition to the contributions of £20K by each of the UK institutions.</para>
+        <para id="import-auto-id1170527368106">The additional funds will support the sustainability of a network of leading research and entrepreneurial universities in the UK and the USA. Additional funds on both sides of the Atlantic, over and above the basic budget, will provide for seed funding of collaborative projects generating a history of collaboration and preliminary data thereby enhancing the potential for successful outcomes from future research proposals and, also, fund ‘proof of concept studies'. Calls for proposals and funding opportunities for international collaborations are increasing - there are very significant opportunities ahead, buildings achievements of Phase I.</para>
+        <para id="import-auto-id1170530410489">A recent indicator of the commitment in Texas to interdisciplinary collaborations is that Rice University has commenced construction of a Collaborative Research Center, of more the 500,000 sq. feet, strategically located between the Rice campus and the Texas Medical Center, the world's largest medical center. In addition the State of Texas has committed to the provision of US$3 billion for cancer research over the coming decade.</para>
+        <para id="import-auto-id1170522440780">In 2007 Swansea University became a member of the Texas/UK Collaborative, an elite network of world leading research organisations. This partnership has been developed, and is managed by the author, with the member shown in <link target-id=" import-auto-id1170530380738 "/>. </para><table id="import-auto-id1170530380738" summary="Members of the Texas United Kingdom Collaborative Phase II.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry>
+
+                    <emphasis effect="bold">UK</emphasis>
+
+                </entry>
+                <entry>
+
+                    <emphasis effect="bold">Texas</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Imperial College London, Kings College London, Oxford University, Cambridge University, University College London, Strathclyde University, Southampton University, Swansea University,  and Queens University</entry>
+                <entry>Rice University, Texas A&amp;M University, University of Houston, University of Texas Health Science Center, University of Texas Medical Branch, Baylor College of Medicine, MD Anderson Cancer Research Center, and Methodist Hospital Research Institute</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup><caption>Members of the Texas United Kingdom Collaborative Phase II. </caption>
+</table><section id="import-auto-id1170521813518">
+          <title>The Swansea Approach</title>
+          <para id="import-auto-id1170527542072">The strategy undertaken by Swansea Universities was to have strategic key researchers of decision-making level from Swansea’s Medical School to accompany the director of the Collaborative in Swansea to Houston to engage in a pre-Collaborative Scoping and Mapping Exercise to lay firm ground work for future collaboration. A network of researchers was established within Swansea University drawing in expertise from across the Schools of Medicine and Engineering. Wherever possible, members of this network participated in visit, workshops and other joint activities to develop awareness of their respective research interests and strengths, and to identify/scope potential collaborations.</para>
+        </section>
+      </section>
+    </section>
+    <section id="import-auto-id1170528338958">
+      <title>The Research Question</title>
+      <para id="import-auto-id1170522439324">The previous section has described how the Texas/United Kingdom Collaborative combines the strategic expansion of academic research with the involvement of the private sector, bringing economic development through enterprise and job creation.</para>
+      <para id="import-auto-id1170528256320">The aspiration of participation of Swansea in the Texas/UK Collaborative is not solely to support growth of its research agenda but also to assist in creating a sustainable innovation system.  Earlier sections have outlined the economic development challenges faced by Southwest Wales and the global context of innovation and knowledge economies. Phase I of the Texas/United Kingdom Collaborative demonstrated the potential for academic industrial collaboration across global networks to support economic development. Therefore it can be suggested that Swansea, as a new member of the initiative, has an opportunity to derive benefit in a similar manner leading to the question:</para>
+      <para id="import-auto-id1170525192836">
+        <emphasis effect="italics">Can a region lever participation in a Global Network to accelerate the development of a sustainable Technology Cluster? </emphasis>
+      </para>
+    </section>
+    <section id="import-auto-id1170525865484">
+      <title>Bibliography</title>
+      <list id="import-auto-id1170527150932" list-type="bulleted"><item>Asheim B.T. and Isaken A., 2002, “Regional Innovation Systems: The Integration of Local `Sticky` and Global `Ubiquitous` Knowledge”, The Journal of Technology Transfer, Vol. 27, No. 1. </item>
+        <item>Barrell R. and Pain N., 1997, “Foreign Direct Investment, Technological Change, and Economic Growth Within Europe”, The Economic Journal, Vol. 107, No. 445, pp. 1770-1786. Friedman J., Gerlowski D .A. and Silberman J., 1992,”What attracts Foreign Multinational Corporations? Evidence from Branch Plant Location in the United States”, Journal of Regional Science, Vol. 32, No. 4 pp. 403-418. </item>
+        <item>Boddy M., 2005, “The Knowledge-Driven Economy, Regional Economic Strategy and the Regional Spatial Strategy in the South West of England”, South West Regional Development Agency. </item>
+        <item>Brooksbank D.J., Clifton N.C., Jones-Evans D. and Pickernell D.G., 2001, “The End of the Beginning?: Welsh Regional  Policy and Objective One”, European Planning Studies, Vol. 9, No. 2. </item>
+        <item>Cameron G., Muellbauer J. and Snicker J., 2002, “A Study in Structural Change: Relative Earnings in Wales Since the 1970’s”, G Cameron, J Muellbauer and J Snicker, Regional Studies, Vol. 36, Iss. 1, pp. 1-11. </item>
+        <item>Cantwell J. and Piscitello L., 2005, “Recent Location of Foreign-owned Research and Development Activities by Large Multinational Corporations in the European Regions: The Role of the Spillovers and Externalities”, Regional Studies, Vol. 39, Iss.1, pp. 1-16. </item>
+        <item>Coates D. and Warwick K., 1999, “The Knowledge Driven Economy: Analysis and Background”, Conference Paper, The Economics of the Knowledge Driven Economy, UK DTI, 1999. </item>
+        <item>Cohen J., Gangi W., Lineen J. and Manard A, 2008, “Strategic Alternatives in the Pharmaceutical Industry”, Kellogg School of Management, www.kellogg.northwestern.edu, Accessed May 2008. </item>
+        <item>Cooke P., 1998, “Innovation Systems”, P Cooke, ISBN 1-85728-690-1, UCL Press. </item>
+        <item>Cooke P. and Clifton N., 2005, “Visionary, Precautionary and Constrained `Varieties of Devolution` in the Economic Governance of the Devolved UK Territories”, Regional Studies, Vol. 39, Iss. 4, pp. 437-451. </item>
+        <item>De Laurentis C., Cooke P. and Williams, G., 2003, “Barriers to the Knowledge Economy- New Media Cluster in the Periphery”, Paper presented at the Regional Studies Association International Conference, Scuola Superiore Sant' Anna Pisa 12th -15th April 2003. </item>
+        <item>Doring T. and Shnellenbach J., 2006, “What Do We Know about Geographical Knowledge Spillovers and Regional Growth?: A Survey of the Literature”, Regional Studies, Vol. 40, Iss. 3, pp. 375-395. </item>
+        <item>Drucker P.F, 1985, “Innovation Entrepreneurship”, Elsevier, ISBN 0-7506-4388-9. </item>
+        <item>DTI, 2004, “Our Competitive Future: Building the Knowledge-Driven Economy”, Department of Trade and Industry, UK Government. </item>
+        <item>EU, 1997, “First Action Plan for Innovation in Europe”, Cordis, European Commission. </item>
+        <item>DTI, 1999, “The Economics of the Knowledge Driven Economy”, Department of Trade and Industry, UK Government. </item>
+        <item>DTI, 2003, “Competing in the Global Economy – The Innovation Challenge”, DTI Economics Paper, No. 7, Department of Trade and Industry, UK Government. </item>
+        <item>EU, 2003, “Final Report of the Expert Group on Enterprise Clusters and Networks”, Enterprise Directorate General, European Commission. </item>
+        <item>Europa (2003), Community Innovation Survey, 1994-1996, Brussels, Belgium: European Union. </item>
+        <item>Gripaios P., Gripaios R., and Munday M., 1997, “The role of Inward Investment in Urban Economic Development: The Cases of Bristol, Cardiff and Plymouth”, Urban Studies, Vol. 34, No. 4, pp. 597-603. </item>
+        <item>Hauknes J., 1999, “Services in Innovation – Innovation Services, Realising the Potential of the Service Economy: Facilitating Growth, Innovation and Competition”, OECD Business and Industry Policy Forum. </item>
+        <item>Hughes P. and Morgan R.E, 2007, “A resource-advantage perspective of product–market strategy performance &amp; strategic capital in high technology firms”, Industrial Marketing Management, Vol. 36, Iss. 4, pp. 503-517. </item>
+        <item>International Intellectual Property Alliance (2002) U.S. Copyright Industries Continue to Lead the Economy in Job Growth, Contribution to the GDP and Foreign Sales/Exports, US Patent and Trademark Office: US Government. </item>
+        <item>Jarboe K. P. and Furrow R., 2008, “Intangible Asset Monetization: The Promise and the Reality”, Working Paper, No. 3, Athena Alliance, Accessed May 2008. </item>
+        <item>Keating M., 1998, “Reforging the Union: Devolution and Constitutional Change in the United Kingdom”, Publius, The Journal of Federalism, Vol. 28, No. 1, pp.217-234. </item>
+        <item>Lawson C. and Lorenz E., 1999, “Collective Learning, Tacit Knowledge and Regional Innovation Capacity”, Regional Studies, Vol. 33, pp. 379-389. </item>
+        <item>Luintel K.B. and Khan M., 2004, “Are International R&amp;D Spillovers Costly for the United States?”, The Review of Economics and Statistics, Vol. 86, No.4, pp. 896-910. </item>
+        <item>Lundval B. and Johnson B., 1994, “The Learning Economy”, Journal of Industrial Studies, Vol. 1, Iss. 2, pp. 23-42. </item>
+        <item>Mathias P., 1983, “The First Industrial Nation: An Economic History of Britain: 1700-1914”, 2<sup>nd</sup> Ed., P Mathias, Routledge. </item>
+        <item>McLean I. and McMilan A., 2003, “The Distribution of Public Expenditure across the UK Regions”, Fiscal Studies, Vol.25, pp. 325-335. </item>
+        <item>Morgan K., 1981, “Wales: Rebirth of a Nation 1880-1980”, K Morgan, Oxford University Press, ISBN 0-19-821-760-9. </item>
+        <item>Morgan K., 2001, “The New Territorial Politics: Rivalry and Justice in Post-devolution”, Vol. 35, Iss. 4, pp. 343-348. </item>
+        <item>Phelps N., Mackinnon D., Stone I. and Braidford P., 2003, “Embedding the Multinationals? Institutions and the Development of Overseas Manufacturing Affiliates in Wales and North East England”, Regional Studies, Vol. 37, Iss. 1, pp. 27-40. </item>
+        <item>OECD, 1996, “The Knowledge-based Economy”, Organisation for Economic Co-operation and Development. </item>
+        <item>Phelps N. and Tewdwr<emphasis effect="italics">-</emphasis>Jones<emphasis effect="italics"/>M., 2001, “Globalisation, Regions and the State: Exploring the Limitations of Economic Modernisation through Inward Investment” Urban Studies, Vol. 38, No. 8, pp. 1253-1272. </item>
+        <item>Phelps N.A., Lovering J., and Morgan K., 1998, “Tying the Firm to the Region or Tying the Region to the Firm?: Early Observations on the Case of LG in South Wales”, European Urban and Regional Studies, Vol. 5, No. 2, pp. 119-137. </item>
+        <item>Porter M.E., 1985, “Competitive Advantage: Creating and Sustaining Superior Performance”, Free Press, ISBN 0-7432-6087-2. </item>
+        <item>Porter M. and Stern S., 1999, “The New Challenge to Americas Prosperity: Findings from the Innovation Index”, Council of Competitiveness. </item>
+        <item>Porter M.E., 1990, “Competitive Advantage of Nations”, Free Press, ISBN 0-684-84147-9. </item>
+        <item>Quah D., 1999, “Growth and Increasingly Weightless Economies, The Economics of the Knowledge Driven Economy” Conference Paper, Department for Trade and Industry, UK Government. </item>
+        <item>Rivette G. and Kline D., 2000, “Rembrandts in the attic: unlocking the hidden value of patents”, Harvard, USA: Harvard Business School Press. </item>
+        <item>Rodriguez-Clare A., 1996, “Multinationals, Linkages and Economic Development”, The American Economic Review, Vol. 86, No. 4, pp. 852-872.</item>
+        <item>Ross D., 2005, “Wales: History of a Nation”, Geddes &amp; Grosset, ISBN 1-84205-018-4. </item>
+        <item>Samuelson, 1964, “Econimics”, P.A. Samuelson, 6<sup>th</sup> Ed., McGraw-Hill. </item>
+        <item>Salvador E. and Harding R., 2005,“Innovation Policy at the Regional Level: the Case of Wales”, 5<sup>th</sup> Triple Helix Conference, Turin, E Salvador and R Harding, Paper ID: W385. </item>
+        <item>Shapira P., Youtie J., Yogeesvaran K. and Jaafar Z., 2005, “A125: Knowledge Economy Measurements: Methods, Results and Insights from the Malaysian Knowledge Content Study”, Conference Paper, Triple Helix 5 Conference, Turin. </item>
+        <item>Stiglitz J., 1999, “Knowledge in the Modern Economy”, Senior Vice President and Chief Economist, World Bank, Conference Paper, The Economics of the Knowledge Driven Economy. Department of Trade and Industry, UK Government. </item>
+        <item>UNIEDO, 2003, “Strategies for Regional Innovation Systems: Learning Transfer and Applications” United Nations Industrial Development Organisation. </item>
+        <item>WAG, 2001, “A Winning Wales: The National Economic Development Strategy of the Welsh Assembly Government”, Welsh Assembly Government. </item>
+        <item>WAG, 2005, “A Budget for the Future of Wales, The Assembly Government’s Spending Plans 2005-2006 and 2007-2008”, National Assembly for Wales. </item>
+        <item>WEFO, 2004, “Single Programming Document including Mid-term Review Changes”, West Wales and Valleys, Objective 1, Welsh European Funding Office, Welsh Assembly Government. </item>
+        <item>Work Foundation, 2006, “The Knowledge Economy in Europe: A Report prepared for the 2007 EU Spring Council, The Work Foundation. </item>
+        <item>World Bank, 1998, “Knowledge for Development”, World Bank Report, New York, Oxford University Press. </item>
+        <item>World Bank, 1999, “Public Policy for Knowledge Economy”, World Bank, 1999. </item>
+        <item>www.ktnetworks.co.uk, Accessed 2007. </item>
+        <item>www.ktponline.org.uk, Accessed 2007. </item>
+        <item>Young S<emphasis effect="italics">., </emphasis>Hood N. and Peters E<emphasis effect="italics">., </emphasis>1994, “Multinational Enterprises and Regional Economic Development”, Regional Studies, Vol. 28, No. 7, pp. 657–677. </item>
+      </list></section>
+  </content>
+</document>

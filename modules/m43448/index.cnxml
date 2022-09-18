@@ -1,0 +1,630 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Regions and Clusters</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43448</md:content-id>
+  <md:title>Regions and Clusters</md:title>
+  <md:abstract/>
+  <md:uuid>f368a500-5e60-4f47-989f-5a8730ebbfc3</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1172754622431">
+      <title>Regions</title>
+      <para id="import-auto-id1172756429293">This thesis sets out to explore the potential impact of harnessing “international collaboration” to the benefit of the participant regions. The emergence of the role of regions within national and international economies has become a field of increasing interest and importance (Karlsson 2007 and Ketels et al. 2008). This chapter explores the concepts of regions and clusters in the context of the facilitating the development of sustainable knowledge driven local economy and in particular the role of government policy in its facilitation. </para>
+      <section id="import-auto-id1172757042450">
+        <title>Knowledge Economy - Global, European and UK Global</title>
+        <para id="import-auto-id1172754616763">As described earlier, the emergence of the knowledge-based economy around the world has been widely acknowledged at an international level, (OECD 1996 and Work Foundation 2006), and also increasingly so at national (DTI 2003 and Shapira et al. 2005) and regional levels. This has led to many countries large and small developing strategies to harness the opportunities of the Knowledge Economy, including nations as diverse as the US, UK (DTI 2004), New Zealand, Malaysia and Scotland (Scot Exec 2001). </para>
+        <para id="import-auto-id1172754614841">Knowledge creation is a key driver of the Knowledge Economy and the United States is the world leader in this regard investing the most into the creation of knowledge; some $285bn annually. This compares with other leading nations as shown in <link target-id=" import-auto-id1172754601085"/> (OECD 2005). </para><table id="import-auto-id1172754601085" summary="R&amp;D Expenditure by leading nations (OECD 2005).">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <thead>
+              <row>
+                <entry>
+
+                    <emphasis effect="bold">Country</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">R&amp;D Investment </emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">% of OECD expenditure</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">% of National GDP</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>United States</entry>
+                <entry>$285bn</entry>
+                <entry>42</entry>
+                <entry>2.6</entry>
+              </row>
+              <row>
+                <entry>EU</entry>
+                <entry>$211bn</entry>
+                <entry>31</entry>
+                <entry>2.0</entry>
+              </row>
+              <row>
+                <entry>Japan</entry>
+                <entry>$114bn</entry>
+                <entry>17</entry>
+                <entry>3.2</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>R&amp;D Expenditure by leading nations (OECD 2005). </caption>
+</table><section id="import-auto-id8669505">
+          <title>EU and UK</title>
+          <para id="import-auto-id7554536">Developing the world’s strongest Knowledge-based economy has become a key goal for the European Union as launched at the Lisbon 2000 Council (Lisbon 2000 EU Council Strategy). </para>
+          <para id="import-auto-id1172754278548">“<emphasis effect="italics">…to become the most dynamic and competitive knowledge based economy in the world</emphasis>”</para>
+          <para id="import-auto-id7614884">At a European level the disparities in economic performance between regions, even within countries, are highlighted by Figures compiled by the European Commission (EUROSTAT 2004) and shown in <link target-id=" import-auto-id8670375"/>. The United Kingdom provides the most striking example of this with Inner London generating GDP per capita at 288% of the EU average while at the other end of UK performance are the Isles of Scilly registering 65% (Wales Objective One region – 73%). </para><figure id="import-auto-id8670375"><media id="import-auto-id1172754280297" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-0153.jpg" width="400" print-width="4in"/>
+            </media>
+          <caption>GDP per capita 2001, NUTS 2 level in % of EU-25 average (EU-25 = 100). </caption></figure><para id="import-auto-id8218427">The leading regions are typically those including the capital city and this performance aligns with the intensity of knowledge-based activity as has been shown in Cooke and Clifton (2005). However, this measure serves to highlight one of the limitations of simple GDP measures. As ‘output’ location is recorded rather than ‘income’ region the apparent prosperity of regions can be misleading. For example, relatively few people live in Central London, though a huge amount of GDP is generated. Much of the wealth created in the capital flows out in pay packets to be spent in the commuter-belt. Wales experiences the same phenomenon, with workers flowing into the capital, many from the relatively poor Valleys, to create GDP that registers as an output of Cardiff. </para>
+          <para id="import-auto-id1172754269911">Much of the Community level action focuses on issues such as reform of state aid, removal of obstacles to physical, labour and academic mobility and completion of an agreement in the ongoing World Trade Organisation negotiations. However, as described in Chapter 2, this follows through down to the national and regional levels, including strategy for Structural Funds interventions.</para>
+          <para id="import-auto-id1172757257208">Considering the intentions of the European Union, how does it currently perform in terms of the knowledge-based economy? Statistics compiled by EUROSTAT show that over 40% of EU employment is in knowledge-based industries with about half of this in manufacturing and market services (i.e., not Health or Education), as shown in <link target-id=" import-auto-id1172754269563"/>. </para><table id="import-auto-id1172754269563" summary="EU Knowledge Based Employment – 2005, Work Foundation (2006).">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <thead>
+                <row>
+                  <entry>
+
+                      <emphasis effect="bold">Sector</emphasis>
+                  </entry>
+                  <entry>
+                      <emphasis effect="bold">% of total employment</emphasis>
+                  </entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>
+
+                      <emphasis effect="bold">Tech based manufacturing</emphasis>
+                  </entry>
+                  <entry>
+                      <emphasis effect="bold">6.9%</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry> - High-tech manufacturing</entry>
+                  <entry>1.1%</entry>
+                </row>
+                <row>
+                  <entry> - Medium tech manufacturing</entry>
+                  <entry>5.8%</entry>
+                </row>
+                <row>
+                  <entry>
+                      <emphasis effect="bold">Market Services</emphasis>
+                  </entry>
+                  <entry>
+                      <emphasis effect="bold">15.3%</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry> - High tech services</entry>
+                  <entry>3.5%</entry>
+                </row>
+                <row>
+                  <entry> - Financial services</entry>
+                  <entry>3.2%</entry>
+                </row>
+                <row>
+                  <entry> - Business / Communications</entry>
+                  <entry>8.6%</entry>
+                </row>
+                <row>
+                  <entry>
+                      <emphasis effect="bold">Health, Education, Cultural</emphasis>
+                  </entry>
+                  <entry>
+                      <emphasis effect="bold">19.4%</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                      <emphasis effect="bold">Total </emphasis>
+                  </entry>
+                  <entry>
+                      <emphasis effect="bold">41.5%</emphasis>
+                  </entry>
+                </row>
+              </tbody>
+            
+</tgroup><caption>EU Knowledge Based Employment – 2005, Work Foundation (2006). </caption>
+</table><para id="import-auto-id8677729">The importance of the Knowledge Economy is continually growing in the UK. Current trends would see manufacturing and agriculture account for only 15% of UK output by the end of the decade as the service sector continues to grow (Leadbeater 1999). These trends are reflected in the growth of employment in knowledge-based industries since the mid-80s shown in <link target-id=" import-auto-id1172756311237"/>. </para><figure id="import-auto-id1172756311237"><media id="import-auto-id1172754261607" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-ab78.jpg" width="400" print-width="4in"/>
+            </media>
+          <caption>UK Employment in knowledge based (solid line) and other (dashed line) industries, from Coates and Warwick (1999). </caption></figure><para id="import-auto-id1172757244574">However, this overall growth of the Knowledge Economy sits above a wide variance in performance amongst UK regions that is acknowledged by both Government (Edmonds 2000 and DTI 2001) and academic observers (Hughes 1999, Cooke 2002, Clement 2004 and K Group 2006). </para>
+        </section>
+      </section>
+      <section id="import-auto-id1172754285559">
+        <title>Knowledge Economy - Welsh and Regional Context</title>
+        <para id="import-auto-id1172754263124">Over recent years there has been a restructuring of the Welsh economy in the face of global challenges that have squeezed traditional sectors, in particular manufacturing. In this regard, the Welsh Assembly Government is trying to support the development of the knowledge-based economy. This ambition, reflecting the pillars of the knowledge economy is captured in the Wales Spatial Plan (WAG 2004c): </para>
+        <para id="import-auto-id1172754262892"> “<emphasis effect="italics">We need an innovative, high value economy for Wales which utilises and develops the skills and knowledge of our people: an economy which both creates wealth and allows that prosperity to be spread throughout Wales: an economy which adds to the quality of people’s lives as well as their living and working environments.</emphasis>”</para>
+        <para id="import-auto-id1172754262834">Great differences in prosperity can be noted within the regions of Wales (Morgan 2001). This is demonstrated by <link target-id=" import-auto-id1172756312629"/> presenting the disparity between East Wales, and West Wales and the Valleys (K GROUP 2006).</para><figure id="import-auto-id1172756312629"><media id="import-auto-id7573048" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-011b.jpg" width="300" print-width="3in"/>
+          </media>
+        <caption>GVA by South Wales region compared to UK average – 2003 from Knowledge Economy Theme: Interim Report (Stats Wales Welsh Assembly Government 2006). </caption></figure><para id="import-auto-id1172757245908">Wales Spatial Plan, Swansea Bay, Waterfront and Western Valleys Using a definition developed from the OECD sectoral description of the knowledge economy (OECD 1996), De Laurentis and Cooke (2003) present the regions of West Wales and the Valleys against other key European regions (in <link target-id=" import-auto-id1172756296249"/>). </para><table id="import-auto-id1172756296249" summary="Selected regions from the Knowledge Economy Index (1998) (De Laurentis and Cooke 2003).">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>
+
+                    <emphasis effect="bold">Region</emphasis>
+
+                </entry>
+                <entry>
+                    <emphasis effect="bold">% knowledge economy</emphasis>
+                </entry>
+                <entry>
+                    <emphasis effect="bold">Ranking</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Stockholm, Sweden</entry>
+                <entry>58.65</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>London, UK</entry>
+                <entry>57.73</entry>
+                <entry>2</entry>
+              </row>
+              <row>
+                <entry>Helsinki, Finland</entry>
+                <entry>51.50</entry>
+                <entry>11</entry>
+              </row>
+              <row>
+                <entry>Paris, France</entry>
+                <entry>50.17</entry>
+                <entry>16</entry>
+              </row>
+              <row>
+                <entry>South West Scotland, UK</entry>
+                <entry>47.59</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>East Scotland, UK</entry>
+                <entry>47.05</entry>
+                <entry>30</entry>
+              </row>
+              <row>
+                <entry>East Wales, UK</entry>
+                <entry>43.91</entry>
+                <entry>53</entry>
+              </row>
+              <row>
+                <entry>West Wales and Valleys, UK</entry>
+                <entry>42.87</entry>
+                <entry>60</entry>
+              </row>
+              <row>
+                <entry>Rhone-Alpes, France</entry>
+                <entry>42.22</entry>
+                <entry>67</entry>
+              </row>
+              <row>
+                <entry>South and East Ireland</entry>
+                <entry>40.18</entry>
+                <entry>86</entry>
+              </row>
+              <row>
+                <entry>Gelderland, the Netherlands</entry>
+                <entry>39.99</entry>
+                <entry>87</entry>
+              </row>
+              <row>
+                <entry>North East Scotland, UK</entry>
+                <entry>38.09</entry>
+                <entry>101</entry>
+              </row>
+              <row>
+                <entry>Northern Ireland, UK</entry>
+                <entry>37.31</entry>
+                <entry>107</entry>
+              </row>
+              <row>
+                <entry>Sachsen, Germany</entry>
+                <entry>35.97</entry>
+                <entry>119</entry>
+              </row>
+              <row>
+                <entry>Highlands and Islands, UK</entry>
+                <entry>34.45</entry>
+                <entry>132</entry>
+              </row>
+              <row>
+                <entry>Upper Austria</entry>
+                <entry>34.28</entry>
+                <entry>133</entry>
+              </row>
+              <row>
+                <entry>Athens, Greece</entry>
+                <entry>33.79</entry>
+                <entry>135</entry>
+              </row>
+              <row>
+                <entry>Calabria, Italy</entry>
+                <entry>31.29</entry>
+                <entry>151</entry>
+              </row>
+              <row>
+                <entry>Navarre, Spain</entry>
+                <entry>32.06</entry>
+                <entry>145</entry>
+              </row>
+              <row>
+                <entry>Aegean Islands, Greece</entry>
+                <entry>12.70</entry>
+                <entry>188</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Selected regions from the Knowledge Economy Index (1998) (De Laurentis and Cooke 2003).</caption>
+</table><para id="import-auto-id1172754265991">This suggests that both ‘East Wales’ and the ‘West Wales and Valleys’ regions ‘qualify’ as regions with a knowledge-based economy, meaning that there is an existing knowledge-economy to be supported and developed.  </para>
+        <para id="import-auto-id1172757245966">‘West Wales and Valleys’ includes the Wales Spatial Plan region of Swansea Bay, Waterfront and Western Valleys, which is developing its own Knowledge Economy strategy as part of the Spatial Planning process. The neighbouring region of ‘East Wales’ is also developing a strategy for development of the Knowledge Economy using the services of an external commercial consultancy (Local Futures 2006).</para>
+        <para id="import-auto-id1172754265808">The research and strategy development of the South West Wales effort is being driven by the Knowledge Economy Research Group at Swansea University. This work has focused on identifying regional challenges, relating to human capital, innovation and infrastructure, and developing recommendations and actions through use of regional and international experts (K-Group 2006 and Davies et al. 2007). </para>
+        <note id="eip-878">The identification of regional challenges in this process forms part of this study of Technium. </note><para id="import-auto-id1172754265402">This approach to developing ‘regional’ knowledge economy strategies has been adopted in the United States, Europe and the UK (Boddy 2005).</para>
+      </section>
+    </section>
+    <section id="import-auto-id1172756297235">
+      <title>Clusters</title>
+      <para id="import-auto-id1172756297119">Economic development based on sole, albeit sometimes large, investments are not a recipe for sustainable knowledge based economic development. To ensure enterprise becomes embedded and sustained within the region it must form links and dependencies upon and amongst neighbouring firms.</para>
+      <para id="import-auto-id7540403">All firms in a region have a certain level of interdependence, in what are ultimately aggregated to represent regional, national and international economies. However, where geographically concentrated groups of interrelated businesses and other organisations participating in a certain field exist, they are regarded as a cluster (EU 2003).</para>
+      <section id="import-auto-id1172756297873">
+        <title>Knowledge-Based Clusters</title>
+        <para id="import-auto-id1172757246894">While the term ‘cluster’ has been increasingly used over recent years, the concept has been apparent for centuries and acknowledged for some time, though perhaps subject to different terminology. Rocha (2004) for example charts how academics have studied the phenomenon since the ‘Industrial Districts’ described by Marshall in the 1890s, all the way through to Porter (1990) at the end of the last millennium. Rocha’s work cites early examples of silk traders in China, along with the coming together of suppliers and manufacturers during the industrial revolution, together with their contemporary equivalents, such as the software companies of India or the call centres of Sydney. </para>
+        <para id="import-auto-id1172754267855">These groupings of companies suggest that much of the competitive advantage enjoyed by their members lies outside the firm (Porter 2000), such that the ‘<emphasis effect="italics">the whole is greater than the sum of the parts</emphasis>’. Porter describes how ‘clustering’ can help the productivity of both firms and regions in a number of ways:</para>
+        <list id="import-auto-id1172756297525" list-type="bulleted">
+          <item>Increasing the productivity of constituent firms or industries. </item>
+          <item>Increasing the capacity of cluster participants for innovation and productivity growth. </item>
+          <item>Stimulating new business formation that supports innovation and expands the cluster. </item>
+        </list>
+        <para id="import-auto-id1172754251804">Elsewhere Porter and Stern (1999) provide a formal definition of the concept (which is also used by the DTI (2001); </para>
+        <para id="import-auto-id1172757247764"> ‘<emphasis effect="italics">Clusters are geographically proximate groups of interconnected companies, industries, and associated institutions in a particular field, linked by commonalities and complementarities</emphasis>.</para>
+        <para id="import-auto-id1172754252392">As the definition suggests a cluster does not include solely competing firms, but is a much broader phenomenon, which “<emphasis effect="italics">extend(s)</emphasis><emphasis effect="italics">downstream to channels or customers and laterally to manufacturers of complementary product</emphasis> (and services) <emphasis effect="italics">or companies related by skills, technologies or common inputs</emphasis>” (Porter 2000). This encompasses the roles of other stakeholders within clusters including universities, trade associations and government. </para>
+        <para id="import-auto-id1172756298743">Porter and Stern (1998) also point out that not all actors within a cluster are necessarily aligned with a particular industry, though rather they come together to support each other’s innovative activity. However, when considering a cluster it should be done with regard to the sector under investigation as aggregation to the level of industry or broad groupings such as ‘manufacturing’ or ‘high-technology’ lose the meaning of the connections and interrelationships. </para>
+        <para id="import-auto-id1172756298975">Clusters exist in all manner of industries, though are of particular interest in knowledge-driven sectors because of the importance of localised skills and tacit knowledge spillovers. Clusters differ from networks in that they do not rely on any formal or informal organisation of actors such as chambers of commerce, industrial fora etc. (EU 2003).<emphasis effect="bold"/>Furthermore, clusters are not necessarily dominated by large companies: an EC study (EU 2003) shows that they typically involve a mix of small and large firms, as shown in <link target-id=" import-auto-id5218540"/>.</para><note id="eip-128">The role of these different sized actors is specifically addressed as part of this study. </note><figure id="import-auto-id5218540"><media id="import-auto-id1172754259478" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-b219.jpg" width="400" print-width="4in"/>
+          </media>
+        <caption>Dominating firm size of clusters included in European Commission study (EU 2003). </caption></figure><para id="import-auto-id1172754245671">Clusters historically often developed around a natural resource, such as mineral deposits or a natural harbour, or a large market, such as towns or cities (<link target-id=" import-auto-id1172756287092"/>). This last influence is still reflected in the European Commission study of European clusters, which shows most exist in urban settings (EU 2003);</para><figure id="import-auto-id1172756287092"><media id="import-auto-id1172754245141" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-e679.jpg" width="400" print-width="4in"/>
+          </media>
+        <caption>Geographic location of clusters included in European Commission study (EU 2003). </caption></figure><para id="import-auto-id1172754246135">Many clusters have developed around the availability of knowledge in the region and this is evermore important in the modern Knowledge Economy sectors. This leads to co-location of firms, the spin-off and start-up of new related firms and the development of other businesses to support their activities, and the growth of a cluster. The nature of such firms is not just competitive and often occurs with overlap between sectors (e.g., venture capitalists, patent attorneys, recruitment agencies, accountancy firms etc.). The interrelationships that give rise to this are presented in Porter’s ‘Diamond’ Model shown in <link target-id=" import-auto-id1172757251592"/>.</para><figure id="import-auto-id1172757251592"><media id="import-auto-id1172754245497" alt="">
+            <image mime-type="image/png" src="../../media/Picture 72.png" width="350" print-width="3.5in"/>
+          </media>
+        <caption>Porter’s ‘Diamond’ Model for Competitive Advantage of Nations (Porter 1990). </caption></figure><para id="import-auto-id1172757249504">Clusters of businesses related to a specific sector not only draw upon the common innovation infrastructure (or <emphasis effect="italics">innovation system</emphasis> as discussed later), but also add to it, creating a self-reinforcing virtuous circle (Porter and Stern 1999). This effect is also demonstrated by the work of Varga (2000), who notes, however, that a critical mass of agglomeration within the region is needed for this to occur. </para>
+        <para id="import-auto-id1172756288310">The study conducted by the European Commission also investigated the interaction and types of networking between businesses in the clusters examined. As shown in <link target-id=" import-auto-id1172754247535"/> most of the clusters investigated had extensive informal networking and collaborative R&amp;D activity;</para><figure id="import-auto-id1172754247535"><media id="import-auto-id1172757235069" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-43e1.jpg" width="400" print-width="4in"/>
+          </media>
+        <caption>Networking between firms in clusters: European Commission study (EU 2003). </caption></figure><para id="import-auto-id1172756288890">The virtuous circle can lead to growth that is then compounded by the establishment of reputation, further attracting skills, investment and opportunities to the region. Examples of this include ‘Silicon Valley’ (Bresnehan et al. 2001, 2007) and ‘Route 128’ (Dorfman 1983), along with Silicon Glen (Turok 1993) and Cambridge Biotechnology clusters in the UK (Keeble and Tomlinson 1999 and Todtling and Trippl 2005). </para>
+        <para id="import-auto-id1172757235185">As described earlier the effects of clusters do not solely relate to existing firms therein, but also to the formation of new enterprise. The availability of new opportunities within a cluster helps promote entrepreneurship and the presence of support organisations, potential customers and suppliers’ acts to facilitate innovation and entrepreneurship (Rocha 2004). The presence of local networks can also help decrease cost and uncertainty in the development of start-ups, aided by flow of knowledge (Almeida and Kogut 1997). </para>
+      </section>
+      <section id="import-auto-id1172754248066">
+        <title>Knowledge and Innovation</title>
+        <para id="import-auto-id7708111">Clusters also represent a foundation for the formation of formal and informal knowledge distribution networks that support innovation (OECD 1996), which ties in with the concept of knowledge spillovers discussed earlier. The information and knowledge exchange within clusters is the key driver in their development in what Keeble and Wilkinson term an ‘<emphasis effect="italics">innovative milieu</emphasis>’ (Keeble and Tomlinson 1999) as part of ‘<emphasis effect="italics">regional collective learning</emphasis>’. This concept describes the development of a collective regional knowledge base caused through interactions such as networking, research collaborations and the movement of personnel between companies and other organisations.</para>
+      </section>
+      <section id="import-auto-id7597785">
+        <title>Proximity</title>
+        <para id="import-auto-id1172756289296">Proximity is a key component in successful clusters (OECD 1996 and Porter 2000), particularly in regard to facilitating knowledge-spillovers (EU 2003), described as: </para>
+        <para id="import-auto-id1172754248762"> “<emphasis effect="italics">The proximity of customers, competitors, suppliers, universities and research institutions provided impetus (for) the creation and exchange of information and increases opportunities for innovation.</emphasis>”</para>
+        <para id="import-auto-id1172754248886">Maskell and Malmberg (1999) outline how the competitiveness of a firm, particularly in the long-term, depends upon its ability to continuously upgrade its knowledge base. To achieve this it must find knowledge sources that provide competitive advantage. As tacit knowledge is the least transferable it requires that businesses place themselves close to its source. Additionally, cost is a factor in developing and maintaining a company’s knowledge base, making proximity to knowledge sources a cost-effective way of closer and more frequent personal contacts. </para>
+        <para id="import-auto-id1172757235533">While proximity to sources of knowledge and other linkages are important elements of clusters, it must not be forgotten that high-technology companies generally exist in national and international networks, serving global markets (Keeble and Tomlinson 1999; Muller, 2007). </para>
+      </section>
+      <section id="import-auto-id1172754249292">
+        <title>UK and Wales </title>
+        <para id="import-auto-id1172756289992">On a global scale the DTI report ‘UK Competitiveness: Moving to the Next Stage’, (Porter and Ketels 2003), presents the UK as a whole as figuring in a number of significant clusters including services, defence, telecommunications, health care, entertainment. Further sectors such as biotechnology and motor sport are also noted to be of particular significance.</para>
+        <para id="import-auto-id1172754249640">Wales as recorded in documents such as the Wales Spatial Plan already acknowledge a number of sector clusters including electronics, biotechnology, automotive and aerospace. These have been identified in the DTI study of UK clusters (DTI 2001). Each of these represents a significant employment and numbers of businesses (<link target-id=" import-auto-id1172754248944"/>).</para><table id="import-auto-id1172754248944" summary="Employment in selected Welsh clusters (DTI 2001).">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry>
+
+                    <emphasis effect="bold">Cluster</emphasis>
+
+                </entry>
+                <entry>
+
+                    <emphasis effect="bold">Employment</emphasis>
+
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Electronics</entry>
+                <entry>22,000</entry>
+              </row>
+              <row>
+                <entry>Automotive</entry>
+                <entry>12,000</entry>
+              </row>
+              <row>
+                <entry>Aerospace</entry>
+                <entry>5,650</entry>
+              </row>
+              <row>
+                <entry>Biotechnology</entry>
+                <entry>2,147</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Employment in selected Welsh clusters (DTI 2001). </caption>
+</table><para id="import-auto-id1172757236403">While not all of the employment may refer to higher skilled employment or ‘knowledge workers’ the sectors involved fall within sectoral definitions of the knowledge economy (OECD 1996) and present the importance of the knowledge economy employment within the region.</para>
+        <para id="import-auto-id1172757237157">An observation in the DTI assessment of clusters (DTI 2001) in Wales; is that while there exists significant specialisation with a number of clusters, they are generally and often weakly embedded and dependent upon foreign owners and markets or industries across the border in England. This reflects the concerns regarding the ‘embeddedness’ of businesses in the region and the focus given to developing indigenous enterprise within sectors and clusters (Cooke and Clifton 2005).</para></section>
+    </section>
+    <section id="import-auto-id7668113">
+      <title>Government Policy</title>
+      <section id="import-auto-id1172756291500">
+        <title>Clusters on Demand?</title>
+        <para id="import-auto-id7878534">Clusters are generally built up spontaneously (EU 2003). However, the question remains as to whether it is possible to develop them in cities and regions and how it could be achieved. The conclusion put forward by governmental organisations (EU 2003), academics (Cooke 2002, Porter 2000) and other bodies is that it is possible, subject to the availability of key components including leadership and vision (Porter 1990, Cooke 2002). </para>
+        <para id="import-auto-id1172754234237">This is in keeping with the model proposed by Porter (1990, 2000), where government can affect aspects including factor conditions, firm strategy, and rivalry and demand conditions. Examples of each of these include provision of training or new knowledge (e.g., funding training schemes or funding academic research), competition policy (regulation/deregulation of industries) and changing consumer behaviour (e.g., environmental legislation), as shown in <link target-id=" import-auto-id1172757237447"/> (Porter 2000). It is also suggested that because of the importance of proximity regional administrations are best placed to assist cluster development (EU 2003). </para><figure id="import-auto-id1172757237447"><media id="import-auto-id1172757237331" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-a64e.jpg" width="400" print-width="4in"/>
+          </media>
+        <caption>Aspects of Economic Policy in Cluster Development (Porter 2000).</caption></figure></section>
+      <section id="import-auto-id1172756292544">
+        <title>European and United Kingdom Policy</title>
+        <section id="import-auto-id1172757237679">
+          <title>Europe: the Lisbon Agenda</title>
+          <para id="import-auto-id1172756292254">The need to invest in the Knowledge Economy is at the heart of the European Union’s Lisbon Strategy. Investment in human capital and development of innovation is recognised as the key mechanism for realising the strategic objectives. The European Commission’s accompanying ‘Community Lisbon Programme’ proposes development of policy measures under the themes of (EU 2005): </para>
+          <list id="import-auto-id1172754235489" list-type="bulleted">
+            <item>Knowledge and innovation for growth </item>
+            <item>Making Europe a more attractive place to invest and work</item>
+            <item>Creating more and better jobs</item>
+          </list>
+          <para id="import-auto-id1172757238027">Recognising R&amp;D as a key driver for innovation, the European Union has set the objective of raising expenditure on R&amp;D to 3% of GDP by 2010. If left to follow current trends by the end of the decade it would remain at 2.2% (EU 2005), just below the OECD average of 2.3% (OECD 1996). </para>
+        </section>
+        <section id="import-auto-id7995574">
+          <title>United Kingdom: Strengthening Innovation</title>
+          <para id="import-auto-id1172754235953">The UK Government has put much emphasis on the promotion of Innovation to reduce the productivity gap with our major competitors. This was the focus of the Department of Trade and Industry ‘<emphasis effect="italics">Innovation Review</emphasis>’ undertaken in 2003 (DTI 2003).</para>
+          <para id="import-auto-id1172754236127">One of the most pivotal pieces of work on University Collaboration was the Lambert Review of Business – University Collaboration by Richard Lambert the former Editor of the-Financial Times from August 2002 Lambert spent a semester at the Kennedy School of Government at Harvard University. He was subsequently asked to write an independent review of Business-University for the then known Department of Trade and Industry.</para>
+          <para id="import-auto-id1172754236832">It is reported in the Lambert Review of Business University Collaboration, that the exploitation of university IP played a vital role in improving UK’s innovation.</para>
+          <para id="import-auto-id5062616">The number of patents issued to business and universities has increased rapidly in the US, EU and Japan since the mid 1980s. The highest levels are found in the most innovative countries such as the US, Sweden and Finland. In many industry sectors, businesses will not invest in research and development (R&amp;D) to develop early stage technologies without a patent to guarantee them exclusive rights to commercialise their work. (DTI 2003)</para>
+          <para id="import-auto-id1172756293066">Patent application numbers in the UK are low and have been falling relative to the US, France and Germany, mainly because of its low investment in R&amp;D. The UK’s investment in R&amp;D is heavily concentrated in the pharmaceutical industry, which has a high propensity to patent. So its low level of patent output is especially worrying. The UK has a strong science base, which is highly productive in creating “pure” research outputs such as publications and citations. There is significant potential to transfer this knowledge to industry through IP. (DTI 2003)</para>
+          <para id="import-auto-id1172754236542">Universities account for only a small share of the UK’s patents each year. The highest proportion is in Scotland where, partly due to low industry investment in R&amp;D, universities file around 10 per cent of patent applications. This is more than double the proportion across the UK. (DTI 2003)</para>
+          <para id="import-auto-id1172754237296">It has been noted in the Lambert review that there is a change in the way that business and universities are interacting and that there is optimism in the prospect of creating innovation from these interactions.</para>
+          <para id="import-auto-id1172756293530">Historically, US universities were Land Grant universities or colleges, which are US institutions, which have been designated by a Congress to receive the benefits of the Morrill Acts of 1862 and 1890. These acts funded educational institutions by granting federally controlled land to the states. The mission of these institutions, as set forth in the 1862 Act, is to teach agriculture, military tactics, and the mechanic arts, not to the exclusion of classical studies, so that members of the working classes might obtain a practical college education (www.wordiq.com 2007). </para>
+          <para id="import-auto-id1172757238317">The US also has <emphasis effect="italics">private schools</emphasis> that are schools not administered by local or national government, and retain their right to select their student body and are funded in whole or in part by charging their students tuition rather than by public funds many of which receive endowments from businesses. Strengthening universities links to business and industry. Also in the US, the universities are governed by boards, several of the people on these boards are also lead business people in the region and in their fields of expertise, which help guide the university into what areas are in demand from the market, so that the universities can better set their curricula to match the market needs. The US Universities also have a very strong alumni base that contributes endowments to the university strengthening its funding resource.</para>
+          <para id="import-auto-id1172757238085">These links have perpetuated a culture that is underlying in the US universities and academics of collaboration between them and business. It should also be stated that US universities allow for their academics during non-contract hours to work with business in their field of expertise. Thus creating a deeper interaction on a personal level, and allowing transfer of knowledge from business back into the university. These links also aid in the interaction of marketing of university IP, a majority of licensing in US universities comes from the network that the academic themselves has created through their interaction with business.</para>
+          <para id="import-auto-id1172754236774">While in the UK the view of business is quite different, the view of business was not held in regard by academics and the contracts that they are employed through do not allow for the interaction as it does for their US counterparts. Yet as Richard Lambert stated in his review,” there has been a marked culture change in the UK’s universities over the past decade; most universities are actively seeking to play a broader role in the regional and national economy” (HSMO 2003). </para>
+          <para id="import-auto-id1172756293472"> “Two thirds of growth comes from innovation” <emphasis effect="italics">Chancellor Exchequer, June 2002</emphasis></para>
+        </section>
+      </section>
+      <section id="import-auto-id1172754236716"><title>Welsh Assembly Government Policy</title><section id="import-auto-id1172757238549"><title>Economic Development </title><section id="eip-655"><title>A Winning Wales and Wales: A Vibrant Economy</title><para id="import-auto-id1172754237594">The Welsh Assembly Government outlines its overarching strategic agenda in ‘Wales: A Better Country’ (WAG 2003b) with policy areas including: </para>
+          <list id="import-auto-id1172754238058" list-type="bulleted">
+            <item>Helping more people into jobs. </item>
+            <item>Improving health. </item>
+            <item>Developing strong and safe communities. </item>
+            <item>Creating better jobs and skills. </item>
+          </list>
+          <para id="import-auto-id1172756294110">This agenda ties together the policy areas of health, education, transport, local government and economic development.</para>
+          <para id="import-auto-id1172754238704">The economic development agenda is captured in ‘A Winning Wales’, which was first delivered in 2001 (WAG 2001), updated in 2003 (WAG 2003a). It is supported by a host of interrelated strategies and accompanying action plans for aspects of economic development including innovation (WAG 2003), entrepreneurship, skills, (WAG 2005c), the environment and specific industry sectors (<link target-id=" import-auto-id1172756294400"/>). The Strategy also aims to outline how Structural Funds, including Objective 1 funding are to be used in economic development for West Wales and the Valleys. </para><figure id="import-auto-id1172756294400"><media id="import-auto-id1172756294458" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-06c4.jpg" width="400" print-width="4in"/>
+            </media>
+          <caption>A Winning Wales and associated Action Plans, from Wales for Innovation (from WAG 2003). </caption></figure><para id="import-auto-id1172757238955">The strategy is built around a vision that clearly reflects the ambition to develop a strong and vibrant Knowledge-Based economy in Wales (WAG 2001): </para>
+          <para id="import-auto-id1172754238936">
+            <emphasis effect="italics">“To achieve a prosperous Welsh economy that is dynamic, inclusive and sustainable, based on successful, innovative businesses with highly skilled, well-motivated people”</emphasis>
+          </para>
+          <para id="import-auto-id1172754239284">To realise this vision the strategy (WAG 2001) outlines the key targets, again reflecting the agenda of a knowledge-based economy:</para>
+          <list id="import-auto-id1172756294980" list-type="bulleted">
+            <item>Raising total employment by 135,000. </item>
+            <item>Improving enterprise and innovation. </item>
+            <item>Raising not just skill levels but learning performance at every level. </item>
+            <item>Ensuring Wales uses world-class electronic communications to their full potential. </item>
+          </list>
+          <para id="import-auto-id1172757239303">In order to achieve these, the Strategy outlines key requirements including:</para>
+          <list id="import-auto-id1172756295096" list-type="bulleted">
+            <item>Improving rates of new business formation. </item>
+            <item>Addressing under representation of rapidly growing sectors such as financial and business services. </item>
+            <item>Building upon strengths in key sectors including aerospace, opto-electronics and automotive. </item>
+          </list>
+          <para id="import-auto-id1172757239593">In 2003 WAG published an Annual Report (WAG 2003a) on the progress towards fulfilling the vision of ‘A Winning Wales’ (WAG 2001), prior to delivering an updated version of the strategy in 2004 (WAG). This reinforced the WAG objective of bringing the prosperity of Wales to 90% of the UK level within a decade and in line with that of the UK within a generation.  </para>
+          <para id="import-auto-id1172754240279">‘A Winning Wales’ has also been recently supplemented by Wales: A Vibrant Economy’ (WAG 2005b) which presents WAG’s ‘Strategic Framework for Economic Development’. This further reinforces the agenda of the Knowledge Economy, with specific regard to the West Wales and the Valleys region, with its focus on:</para>
+
+          <list id="import-auto-id1172757239419" list-type="bulleted">
+            <item>Promoting the knowledge economy, by fostering research, technology and innovation, building a stronger entrepreneurial environment, supporting the development of clusters/centres of excellence in key sectors and improving access to business finance.</item>
+            <item>Improving skills levels, both as a means of tackling innovation and providing the skills for higher value-added employment. This will include supplying young people and new entrants to the labour market with the skills needed to in turn develop the skills and qualifications needed for more senior jobs in the economy.</item>
+          </list>
+          
+          </section>
+
+
+<section id="eip-753"><title>Wales for Innovation - Innovation Action Plan</title>
+
+<para id="import-auto-id8045462">The Innovation Action Plan aims to set out how innovation can be fostered in Wales to help deliver the Knowledge Economy aspired to in ‘A Winning Wales’ (WAG 2001). Actions proposed by the plan consist of five groupings namely;</para>
+
+          <list id="import-auto-id1172754240511" list-type="bulleted">
+            <item>Communicating what can be achieved through more innovation. </item>
+            <item>Developing more high growth potential businesses. </item>
+            <item>Better equipping people to innovate. </item>
+            <item>Simpler, more accessible, business innovation support. </item>
+            <item>Maximising the economic development impact of our universities and colleges. </item>
+          </list>
+          <para id="import-auto-id1172754240685">Core to the Plan is the further development of the ‘Technium’ initiative where the plans for this pan-Wales network were described with a pledge to invest “<emphasis effect="italics">up to £150m…rolling out across Wales …</emphasis> (to)<emphasis effect="italics"> act as innovation focal points within their regions</emphasis>”.</para>
+          <para id="import-auto-id1172754240983">The plan also describes how innovation and skills are to be supported through programmes such as the Technology Exploitation Programme (TEP) and SMARTCymru. </para>
+          
+          <note id="eip-854">SMARTCymru is a WAG initiative created to support the development of new products and processes. </note><para id="import-auto-id1172754241447">It also describes how this would be achieved in conjunction with other WAG bodies including the Higher Education Funding Council for Wales (HEFCW) and Education and Learning Wales (ELWa). </para>
+          
+          
+</section>
+
+<section id="eip-615"><title>A Science Policy for Wales</title>
+
+<para id="import-auto-id1172757240594">The Science Policy for Wales (WAG 2006) underlines the importance given by WAG to the Knowledge Economy in the future of the country, citing the vital role of science, engineering and technology. Three key priority areas were identified for focus of support and resources of: </para>
+          <list id="import-auto-id7950685" list-type="bulleted">
+            <item>Health/life sciences. </item>
+            <item>The low carbon economy. </item>
+            <item>Sustainable economic and social regeneration. </item>
+          </list>
+          <para id="import-auto-id1172756279236">The policy recognises the potential for enterprise developing from scientific endeavour in Wales, though recognises fundamental challenges including the relatively low intensity of scientific research within the country and the low level of Research Funding Council resources won by Welsh Higher Education Institutes (HEIs). This is reflected in much of the evidence supplied to the review that preceded the policy (NAW 2006). However, the Policy does also acknowledge that Wales is a small nation that could not and should not aspire to the breadth and depth of science activity in which much larger territories have the resources to engage. It is though recognised that despite this, scientists and engineers working in Wales will be working in their specific fields with science of the highest quality on national and international stages.</para>
+          
+          
+
+</section>
+
+<section id="eip-187"><title>A Science Advisor for Wales</title>
+
+<para id="import-auto-id1172756279410">In 2008, the First Minister for Wales Rhodri Morgan commissioned a study on the appointment of a Science Advisor for Wales. The First Minister in Wales also has the role of Science Minister.</para>
+          <para id="import-auto-id1172756279526">It was seen that the promotion of science in Wales is fundamental to developing the country as a world-respected knowledge-led economy by building up the science base, and the ability to quickly commercialise on the science base that is in place. Also, the promotion of STEM subjects in the schools and colleges, to ensure that there is a throughput of students that are choosing to study science subjects in schools and universities, and pursuing science careers thereafter.</para>
+          <para id="import-auto-id1172756279642">This appointment was built on the already high standard of science and research in Wales in areas such as medical technology held in high regards in Europe, and a track record of innovations, including automated DNA testing, dispersive X-ray spectrometry and 3D intelligent sensor technology In addition to this is the people that have been conducting pioneering work, such as Professor Sir Martin Evans, who was awarded the Nobel Prize for Medicine for his research into stem cell technology.</para>
+          <para id="import-auto-id7631506">This was compounded by the investment in leading-edge research and development centres, including the £16.5 million PETIC in Cardiff, the £22 million NanoHealth Centre and the £50m Institute of Life Sciences that houses the Boots Innovation Centre at Swansea University</para>
+          <para id="import-auto-id1172757240768">In 2009 Professor John Harries was appointed to the post of Chief Scientific Advisor for Wales.</para>
+          
+          
+
+</section>
+
+<section id="eip-502"><title>The Wales Spatial Plan</title>
+
+
+<para id="import-auto-id1172757240826">Spatial Planning refers to the methods used by the public sector to plan activities within a space and has been used extensively in the European Union for planning within regions since 1984 (ESPON 2007). ‘<emphasis effect="italics">People, Places, Futures: The Wales Spatial Plan</emphasis>’ (WAG 2004c) represents WAG’s vision of future development across Wales. The vision encompasses all aspects of future development including transport, health, education and economic development. The planning process examines Wales in the context of six distinct regions as shown in <link target-id=" import-auto-id1172754225901"/>.</para>
+          <figure id="import-auto-id1172754225901"><media id="import-auto-id1172754225959" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics9-dc3b.jpg" width="350" print-width="3.5in"/>
+            </media>
+          <caption>Regions of Wales according to the Wales Spatial Plan Vision (WAG 2004). </caption></figure>
+          
+          <para id="import-auto-id1172757241406">The economic vision for Wales described in the Wales Spatial Plan highlights the importance of the Knowledge Economy with focus upon the provision of opportunities that harness the skills and knowledge of the people (Wales Spatial Plan, 2004):</para>
+          <para id="import-auto-id1172757241116">
+            <emphasis effect="italics"> “We need an innovative, high value economy for Wales which utilises and develops the skills and knowledge of our people: an economy which both creates wealth and allows that prosperity to be spread throughout Wales: an economy which adds to the quality of people’s lives as well as their living and working environments.”</emphasis>
+          </para>
+          <para id="import-auto-id1172754226075">To achieve this vision, the plan lays out the need for engagement between public, business and other partners. It presents a range of actions for the region and Wales as a whole including taking forward of strategies such as the Skills and Employment Action Plan and Creative Industries Strategy along with investment in knowledge transfer initiatives such as Technium.</para>
+          <para id="import-auto-id1172756280164">As part of this Spatial Planning Exercise overseen by the Welsh Assembly Government each region must select and develop themes for its future development. </para>
+          <para id="import-auto-id8099923">In line with the Lisbon Agenda of the European Union, the region of Swansea Bay, Waterfront and Western Valleys is focusing on building upon its Knowledge Economy foundations to provide a prosperous and sustainable future for its communities. This embodies in the vision for the region described in the Wales Spatial Plan. The charge to develop the Knowledge Economy described in the Plan makes direct reference to the roles of both Swansea University and Technium: </para>
+          <list id="import-auto-id1172756280106" list-type="bulleted">
+            <item>Retaining young people and attract well-qualified people from outside the area to provide a stimulus for improved economic performance.</item>
+            <item>The University, FE Colleges and Technia should embed the Knowledge Economy within the area.</item>
+          </list>
+
+</section>
+        </section></section></section>
+    <section id="import-auto-id1172754226771">
+      <title>The ‘Objective One’ Era – 1999-2006</title>
+      <section id="import-auto-id1172757241754">
+        <title>The Continuing Challenge</title>
+        <para id="import-auto-id1172754227707">Wales entered the new millennium equipped with a new Assembly to fulfil its ambitions, but much like its devolved neighbours of Northern Ireland and Scotland was about to attempt this in the face of economic decline, poor conditions for entrepreneurship and the disinvestment caused by globalisation (Cooke and Clifton 2005).</para>
+        <para id="import-auto-id1172754227649">The scale of this challenge is highlighted by the fact that Wales, with 5 percent of the UK population, only contributes 4.5 percent of total economically active persons and 3.9 percent of GDP in the UK. The Welsh Assembly Government has set itself the target of closing the gap with the rest of the UK economy by raising per capita GDP to 90% of UK levels within a generation (WAG 2001). This target is an enormous aspiration that would require national economic performance to be raised to a level not seen in a century. This is shown in <link target-id=" import-auto-id1172754227417"/> presented Crafts recently to a conference in Cardiff.</para><figure id="import-auto-id1172754227417"><media id="import-auto-id1172756280570" alt="">
+            <image mime-type="image/png" src="../../media/Picture 12.png" width="400" print-width="4in"/>
+          </media>
+        <caption>GDP/Person in Wales as % of Great Britain GDP, selected years (Crafts 2005). </caption></figure><para id="import-auto-id1172757242160">The pressure on manufacturing and basic industries continued with the closure or relocation out of Wales of many inward investors and the termination of steel production at Llanwern. In the period between 1998 and 2003 Wales as a whole lost 57,000 manufacturing jobs. This has again raised the question of how ‘embedded’ multinationals are (or were) in the Welsh economy, with the suggestion that the presence of functions beyond assembly such as research and development would improve embeddedness (Phelps et al. 2003).  </para>
+        <para id="import-auto-id1172757242334">In addition to the continued pressure on manufacturing, the supply of FDI opportunities available was starting to fall during the end of the 1990s due to a slow-down in the global economy (Young et al. 1994) and the emergence of new attractions for FDI, most notably in China and India (Chen 1996). Despite the emergence of these low cost competitors it is observed that wage rate versus skills level remains an issue, working in favour of the relatively better skilled workforces of developed nations (Wei et al. 1999). Furthermore another factor which also hampers future growth for the region is an aging population, which though not a unique regional challenge, does feature worse than for the country as a whole (EU 2005).</para>
+        <para id="import-auto-id1172757242218">These challenges meant the problems of the new millennium would not be fixed by the same solution of solely attracting foreign investment by cheap labour and access to markets used at the end of the last century.</para>
+        <section id="import-auto-id1172756281730">
+          <title>Rationale</title>
+          <para id="import-auto-id1172754228701">At the end of the twentieth Century much of the Welsh economy was significantly trailing behind, such that GDP was only 73% of the European average (WEFO 2004) meaning that parts Wales qualified for ‘Objective One’ assistance (<link target-id=" import-auto-id1172754228585"/>). This level of assistance represented the highest level of aid provided by the EU and was targeted at regions with GDP below 75% of the EU average (<link target-id=" import-auto-id1172756282020"/>).</para><figure id="import-auto-id1172754228585"><media id="import-auto-id1172757242392" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics10-84c9.jpg" width="300" print-width="3in"/>
+            </media>
+          <caption>Objective One Areas in Wales (EU 2004).</caption></figure><figure id="import-auto-id1172756282020"><media id="import-auto-id1172754228643" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics11-84a4.jpg" width="300" print-width="3in"/>
+            </media>
+          <caption>Objective One Areas in the EU (EU 2004a).</caption></figure><para id="import-auto-id1688267">The fact that not all of Wales qualifies for such assistance reflects the variation in prosperity across the country. This is highlighted by the fact that disposable incomes in the Vale of Glamorgan are as high as those in the more affluent parts of Bath and Bristol across the bridge, while the mining communities of the Valleys just a few miles from the other side of the M4 remain as impoverished as the most deprived parts of Inner London (Lovering 1999). </para>
+          <para id="import-auto-id1172756282426">The reasons for this poor relative performance were structural dependence upon low value added activities, low productivity in certain sectors and high levels of unemployment within an overall low level of economic participation. Objective One funding came about thanks to the creation of a new statistical region ‘West Wales and the Valleys’ that presented and highlighted the economic woes of this part of Wales (Cameron et al. 2002). The value of this assistance totalled some £1.2bn in grant aid – to be match funded from other sources.</para>
+          <para id="import-auto-id1172754225370">While much effort has been made to address the economic weaknesses of much of Wales, including through use of European Objective 1 funding, the performance of parts of the Welsh economy remains significantly behind that of Europe as a whole. This is highlighted by the fact that much of Wales still qualifies for the highest level of assistance from the EU, now termed ‘Convergence Funding’. </para>
+          <para id="import-auto-id1172757240884">As previously described in this section WAG outlines its strategy for economic development in <emphasis effect="italics">‘Wales: A Vibrant Economy’</emphasis> (WAG 2005b). This strategy builds upon the vision of integrating national and regional policy with the vision of the European Union and the ‘Lisbon Agenda’ of social and economic regeneration. To achieve this Wales has the support of Convergence Funding worth £1.3bn for the West Wales and Valleys region while other areas of Wales qualify for support worth around £120m from the ‘Competitiveness Fund’, which was previously called Objectives 2 and 3. Most of the funding available (65%) is set for ‘<emphasis effect="italics">Lisbon related investments</emphasis>’ (WEFO 2006) and has been earmarked in line with 9 European Regional Development Fund (ERDF) and European Social Fund (ESF) priorities (WEFO 2006);</para>
+          <list id="import-auto-id1172756282136" list-type="bulleted"><title>ERDF</title><item>Building the knowledge based economy. </item>
+            <item>Improving business competitiveness. </item>
+            <item>Developing strategic infrastructure. </item>
+            <item>Creating an attractive business environment. </item>
+            <item>Building sustainable communities. </item>
+          </list><list id="import-auto-id1172756282832" list-type="bulleted"><title>ESF</title><item>Supplying young people with the skills needed for employment</item>
+            <item>Increasing employment and tackling economic inactivity</item>
+            <item>Improving skill levels and improving the adaptability of the workforce</item>
+            <item>Making the connections – modernising our public services</item>
+          </list><para id="import-auto-id1172754230806">While much effort has been made to address the economic weaknesses of much of Wales, including through use of European Objective 1 funding, the performance of parts of the Welsh economy remains significantly behind that of Europe as a whole. This is highlighted by the fact that much of Wales still qualifies for the highest level of assistance from the EU, now termed ‘Convergence Funding’. </para>
+          <para id="import-auto-id1172757225841">With the close of “Objective 1” funding in 2006, the West and the Valleys region of Wales were awarded the highest level of support from the European Union for the Structural Funds programming round 2007–2013 (Convergence). </para>
+          <para id="import-auto-id1172754230748">Convergence, the successor to the Objective 1 programme 2000-2006, covers 15 local authority areas in the West Wales and the Valleys region (<link target-id=" import-auto-id1172754230864"/>).</para><figure id="import-auto-id1172754230864"><media id="import-auto-id1172756283122" alt="">
+              <image mime-type="image/png" src="../../media/Picture 14.png" width="300" print-width="3in"/>
+            </media>
+          <caption>Convergence Region of Wales. </caption></figure><para id="import-auto-id8118316">The Convergence programmes for West Wales and the Valleys comprises of funding from two separate European Structural Funds: the European Regional Development Fund (ERDF) and the European Social Fund (ESF). Around £1 billion of ERDF funds has been allocated to help progress the region’s transformation into a sustainable and competitive economy by investing in the knowledge economy and helping new and existing businesses to grow.  It is focused on regenerating Wales’ most deprived communities, tackling climate change and improving transport. Over £690 million from the ESF has been slotted to be used to tackle economic inactivity, increase skills and employment. The aim is that together, with match funding, Convergence will drive a total investment of £3.5 billion in West Wales and the Valleys (WEFO 2009).</para>
+        </section>
+      </section>
+    </section>
+    <section id="import-auto-id1172756281672">
+      <title>The Emerging BRICs</title>
+      <para id="import-auto-id1172754231444">Europe, Japan and the USA have dominated the ‘knowledge economy landscape’ for a generation. However the world is changing and economies known as the BRICs (Brazil, Russia, India and China) are becoming significant players. Other countries are following close on their coat tails for example Mexico and Vietnam, which is now the fastest growing economy in the world (Milken Conference 2010). This is not to mention established actors in the knowledge economy drama such as Singapore that has made a conscious effort to identify the key sectors and invest to attract the best. The Biopolis project in Singapore is an example of a sovereign state deliberately and strategically seeking to build a cluster using the immense resource at its disposal to seek sustainable competitive advantage. </para>
+      <note id="eip-894">Located in Singapore in close proximity to the National University of, National University Hospital and the Singapore Science Parks, Biopolis aims to be a world-class biomedical science R&amp;D hub in Asia. Biopolis is dedicated to biomedical R&amp;D activities fostering a collaborative culture among the private and public research communities. (<link url="http://www.one-north.sg/hubs_biopolis.aspx"><emphasis effect="underline">http://www.one-north.sg/hubs_biopolis.aspx</emphasis></link>).</note><para id="import-auto-id7889462">Taking China as an example, for a generation or more China has sent its best young talent overseas to receive the best education in the universities of the UK, Europe, the US, Canada and Australia. The Chinese government has focussed this strategy largely on the STEM subjects and a large percentage of UK STEM postgraduates are students form China and India. The time has now come for China to reverse this trend, it is now has the economic wealth to create opportunity for this knowledge based human capital back home in China. Couple with this the fact that China is no longer seen, by global corporate executives, as an IP risk, indeed the opposite. Chris Viehbacher CEO of the pharmaceutical giant Sonofi-Aventis recently said that <emphasis effect="italics">‘I no longer worry about IP; I will take my research to the region which offers me the best talent and best service. China now plays by the rules’</emphasis> (Milken Global Conference 2010).</para>
+    </section>
+    <section id="import-auto-id1172756284224">
+      <title>The Financial Crisis of 2008-2010</title>
+      <para id="import-auto-id1172756284050">The issues of the participation of emerging nations in the global knowledge economy are made the more real and pertinent by the recent global financial crisis. The 2008-2010 crisis is different form others in recent history, this time it is emerging economies that leading the world out of recession. China has led the way followed by others of the ‘BRIC’ category. The US’ emergence from recession followed some two quarters later and Europe lagged significantly further behind. The crisis in Greece has made it harder for Europe to regain economic momentum and as of Q2 2010 fears remain for the Spanish, Irish, Portuguese and even British economies. At this critical time therefore China and others BRICs are able to invest in the emerging knowledge economies and in particular in the human capital. These nations are climbing rapidly up the league tables. Their scientific citations are improving and the rate of generation of new IP is surpassing that of the established dominant players.</para>
+      <para id="import-auto-id1172754231154">The US and the UK are now faced with a new competitive landscape in the context of the knowledge-based economy. What this means for a relatively small and relatively peripheral region like Wales is truly significant. Getting the strategy right is critical and every possible opportunity for seeking advantage must be taken. </para>
+    </section>
+    <section id="import-auto-id1172756283644">
+      <title>Bibliography</title>
+      <list id="import-auto-id1172754232555" list-type="bulleted">
+        <item>Almeida P. and Kogut B., 1997, “The Exploration of Technological Diversity and the Geographic Localization of Innovation”, Small Business Economics, Vol. 9, pp. 21-31. </item>
+        <item>Boddy M., 2005, “The Knowledge-Driven Economy, Regional Economic Strategy and the Regional Spatial Strategy in the South West of England”, South West Regional Development Agency. </item>
+        <item>Bresnehan T., Gambardella A. and Saxenian A, 2001, “Old Economy’ Inputs for ‘New Economy’ Outcomes: Cluster Formation in the New Silicon Valleys”, Journal of Industrial and Corporate Change, Vol. 10, No. 4, pp 835-860. </item>
+        <item>Bresnehan T., Gambardella A., 2007, “Building High-Tech Clusters”, Cambridge Press, ISBN 978-0-521-82722-5. </item>
+        <item>Cameron G., Muellbauer J. and Snicker J., 2002, “A Study in Structural Change: Relative Earnings in Wales Since the 1970’s”, G Cameron, J Muellbauer and J Snicker, Regional Studies, Vol. 36, Iss. 1, pp. 1-11. </item>
+        <item>Chen C.H., 1996, “Regional determinants of foreign direct investment in mainland China”, Journal of Economic Studies, Vol. 23, No. 2, pp. 18-30. </item>
+        <item>Clement R.M., 2004, “A Sustainable Engine for Economic Development”, Presentation to Cardiff Business School. </item>
+        <item>Cooke P., 2002, “Regional Innovation Systems, Clusters &amp; the Knowledge Economy”, European Comparisons, Conference Presentation, The Digital North Denmark Research Seminar. </item>
+        <item>Cooke P. and Clifton N., 2005,“Visionary, Precautionary and Constrained `Varieties of Devolution` in the Economic Governance of the Devolved UK Territories”, Regional Studies, Vol. 39, Iss. 4, pp. 437-451. </item>
+        <item>Davies G.H., Abbey J.V., Huxtable L. and Bunting G., 2007, “Using experts in the identification of the challenges to the development of a Regional Knowledge Economy”, QRM Conference Proceedings. </item>
+        <item>De Laurentis C., Cooke P. and Williams, G., 2003, “Barriers to the Knowledge Economy- New Media Cluster in the Periphery”, Paper presented at the Regional Studies Association International Conference, Scuola Superiore Sant' Anna Pisa 12th -15th April 2003. </item>
+        <item>Dorfman N., 1983, “Route 128: The development of a regional high technology economy”, Research Policy, Vol. 12, pp 299-316. </item>
+        <item>DTI, 2001, “Regional Innovation Performance in the UK”, Department of Trade and Industry, UK Government. </item>
+        <item>DTI, 2003, “Competing in the Global Economy – The Innovation Challenge”, DTI Economics Paper, No. 7, Department of Trade and Industry, UK Government. </item>
+        <item>DTI, 2004, “Our Competitive Future: Building the Knowledge-Driven Economy”, Department of Trade and Industry, UK Government. </item>
+        <item>DTI, 2001, “Business Cluster in the UK – A First Assessment”, Department of Trade and Industry, UK Government. </item>
+        <item>Edmonds T., 2000, “Regional Competitiveness &amp; the Role of the Knowledge Economy”, Research Paper 00/73, Economic Policy &amp; Statistics Section, House of Commons, UK Parliament. </item>
+        <item>EU, 2003, “Final Report of the Expert Group on Enterprise Clusters and Networks”, Enterprise Directorate General, European Commission. </item>
+        <item>EU, 2005, “Common Actions for Growth and Employment: The Community Lisbon Programme”, Communication from the Commission to the Council and the European Parliament, European Commission. </item>
+        <item>HEFCE (2003) “Higher Education Business Interaction Survey 2000-01 and Patent Office Annual Facts and Figures<emphasis effect="italics"/>2000-01”, London, UK: Patent Office. </item>
+        <item>Hughes A., 1999, “Enterprise, Innovation and High-Tech SMEs”, ESRC Centre for Business Research and Judge Institute of Management Studies, Conference Paper, The Economics of the Knowledge Driven Economy, DTI, 1999. </item>
+        <item>HSMO Licensing Division, 2003, “Lambert Review of Business-university Collaboration”, Norwich, UK: HM Treasury. </item>
+        <item>K GROUP, 2006, “Knowledge Economy Theme: Interim Report, Wales Spatial Plan, Swansea Bay – Waterfront and Western Valleys”, Working Document, School of Law, Swansea University. </item>
+        <item>Karlsson K., 2007, “Clusters, Functional Regions and Cluster Policies”, CESIS Electronic Working Paper Series, Paper No. 84. </item>
+        <item>Keeble D. and Tomlinson F., 1999, “Collective Learning and Knowledge Development in the Evolution of Regional Clusters of High Technology SMEs in Europe”, Regional Studies, Vol. 33, Iss. 4, pp 295-305. </item>
+        <item>Ketels C., Lindqvist G. and Solvell O., 2008, “Clusters and Cluster Initiatives”, Center for Strategy and Competitiveness Stockholm School of Economics. </item>
+        <item>Leadbeater C., 1999, “New Measures for the New Economy”, OECD International Symposium, Technical Meeting. </item>
+        <item>Local Futures, 2006, “A Cardiff and South East Wales City Region?”, Research Report, Local Futures Group. </item>
+        <item>Lovering J., 1999, “Theory Led by Policy: The Inadequacies of the ‘New Regionalism’ (Illustrated from the Case of Wales)”, International Journal of Urban and Regional Research. </item>
+        <item>Maskell P. and Malmberg A., 1999, “Localised learning and industrial competitiveness”, Cambridge Journal of Economics, Vol. 23, pp. 167-185, 1999. </item>
+        <item>Milken Global Conference, Los Angeles April 2010. </item>
+        <item>NAW, 2006, “Enterprise, Innovation and Networks Committee, Review of Science Policy in Wales”, National Assembly of Wales. </item>
+        <item>OECD, 1996, “The Knowledge-based Economy”, Organisation for Economic Co-operation and Development. </item>
+        <item>OECD, 2005, “Briefing Note for the United States”, OECD Science, Technology and Industry Scoreboard 2005, Organisation for Economic Co-operation and Development. </item>
+        <item>Porter M.E., 1990, “Competitive Advantage of Nations”, Free Press, ISBN 0-684-84147-9. </item>
+        <item>Porter M., 2000, “Location, Competition and Economic Development: Local Clusters in a Global Economy”, Economic Development Quarterly, Vol. 4, Iss. 15, pp 15-34. </item>
+        <item>Porter M. and Ketels C. H. M., 2003, “Moving to the next stage”, DTI Economics Paper No.3, Department for Trade and Industry, UK Government. </item>
+        <item>Porter M. and Stern S., 1999, “The New Challenge to Americas Prosperity: Findings from the Innovation Index”, Council of Competitiveness. </item>
+        <item>Rocha H. O., 2004, “Entrepreneurship and Development: The Role of Clusters”, Small Business Economics, Vol. 23, pp. 363-400. </item>
+        <item>Scot Exec, 2001, “Scottish Executive Report on the Knowledge Economy Cross-Cutting Initiative”, Scottish Executive. </item>
+        <item>Shapira P., Youtie J., Yogeesvaran K. and Jaafar Z., 2005, “A125: Knowledge Economy Measurements: Methods, Results and Insights from the Malaysian Knowledge Content Study”, Conference Paper, Triple Helix 5 Conference, Turin. </item>
+        <item>Steil, B., Victor, D., and Nelson, R. (2002) “Technological Innovation and Economic Performance”, Princeton, USA: Princeton University Press.</item>
+        <item>Todtling F. and Trippl M., 2005, “One size fits all?: Towards a differentiated regional innovation policy approach”, Research Policy, Vol. 34, Iss. 8, pp. 1203-1219.</item>
+        <item>Turok I., 1993, “Inward Investment and Local Linkages: How Deeply Embedded is ‘Silicon Glen’?’, Regional Studies, Vol. 25, Iss. 5, pp. 401-417. </item>
+        <item>Varga A., 2000, “Local Academic Knowledge Transfers and the Concentration of Economic Activity”, Journal of Regional Science, Vol. 40, No.2, pp. 289-309. </item>
+        <item>WAG, 2001, “A Winning Wales: The National Economic Development Strategy of the Welsh Assembly Government”, Welsh Assembly Government. </item>
+        <item>WAG, 2003, “Wales for Innovation: The Welsh Assembly Government’s Action Plan for Innovation”, Welsh Assembly Government. </item>
+        <item>WAG, 2003a, “A Winning Wales: Annual Report 2002-2003”, Welsh Assembly Government</item>
+        <item>WAG, 2003b, “Wales: A Better Country: The Strategic Agenda of the Welsh Assembly Government”, Welsh Assembly Government. </item>
+        <item>WAG, 2004, “Knowledge Economy Nexus: Role of higher Education in Wales”, Report of the Welsh Assembly Government’s Higher Education and Economic Development Task and Finish Group. </item>
+        <item>WAG, 2004c, “People, Places, Futures: The Wales Spatial Plan”, Welsh Assembly Government. </item>
+        <item>WAG, 2005b, “Wales: A Vibrant Economy”, The Welsh Assembly Government’s Strategic Framework for Economic Development, Welsh Assembly Government. </item>
+        <item>WAG, 2005c, “Skills and Employment Action Plan for Wales 2005”, Welsh Assembly Government. </item>
+        <item>WAG, 2006, “A Science Policy for Wales 2006: The Welsh Assembly Government’s Strategic Vision for Sciences, Engineering and Technology”, Welsh Assembly Government. </item>
+        <item>Wei Y., Parker D. and Vaidya K., 1999, “The Regional Distribution of Foreign Direct Investment in China”, Regional Studies, Vol. 33, Iss. 9, pp. 857-867. </item>
+        <item>WEFO, 2004, “Single Programming Document including Mid-term Review Changes”, West Wales and Valleys, Objective 1, Welsh European Funding Office, Welsh Assembly Government. </item>
+        <item>WEFO, 2006, “Frameworks and Projects: An overview of implementation arrangements”, WEFO Programme Management Division, Welsh European Funding Office. </item>
+        <item>Work Foundation, 2006, “The Knowledge Economy in Europe: A Report prepared for the 2007 EU Spring Council, The Work Foundation. </item>
+        <item>Young S<emphasis effect="italics">., </emphasis>Hood N. and Peters E<emphasis effect="italics">., </emphasis>1994,”<emphasis effect="italics">Multinational</emphasis> Enterprises and Regional Economic Development”, Regional Studies, Vol. 28, No. 7, pp. 657–677. </item>
+      </list>
+    </section>
+  </content>
+</document>
